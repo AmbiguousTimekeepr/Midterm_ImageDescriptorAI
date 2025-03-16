@@ -190,6 +190,7 @@ def train_model(model, train_loader, valid_loader, epochs=100, lr=0.003, device=
     print("Training Complete!")
     
     save_dir = "trained_models"
+    os.makedirs(save_dir, exist_ok=True)
     
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     model_filename = os.path.join(save_dir, f"model_{timestamp}.pth")
