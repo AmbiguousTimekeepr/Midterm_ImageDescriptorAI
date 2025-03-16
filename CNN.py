@@ -15,39 +15,94 @@ class CNN(nn.Module):
         super(CNN, self).__init__()
         
         self.conv_layers = nn.Sequential(
-            # Convolutional Layer 1: Input = (3, 256, 256) → Output = (32, 128, 128)
-            nn.Conv2d(in_channels=3, out_channels=32, kernel_size=3, stride=1, padding=1),
-            nn.ReLU(),
-            nn.MaxPool2d(kernel_size=2, stride=2),  
+            # first prtototype: 3conv - 2fc
+            # # Convolutional Layer 1: Input = (3, 256, 256) → Output = (32, 128, 128)
+            # nn.Conv2d(in_channels=3, out_channels=32, kernel_size=3, stride=1, padding=1),
+            # nn.ReLU(),
+            # nn.MaxPool2d(kernel_size=2, stride=2),  
 
-            # Convolutional Layer 2: Input = (32, 128, 128) → Output = (64, 64, 64)
-            nn.Conv2d(in_channels=32, out_channels=64, kernel_size=3, stride=1, padding=1),
-            nn.ReLU(),
-            nn.MaxPool2d(kernel_size=2, stride=2),  
+            # # Convolutional Layer 2: Input = (32, 128, 128) → Output = (64, 64, 64)
+            # nn.Conv2d(in_channels=32, out_channels=64, kernel_size=3, stride=1, padding=1),
+            # nn.ReLU(),
+            # nn.MaxPool2d(kernel_size=2, stride=2),  
 
-            # Convolutional Layer 3: Input = (64, 64, 64) → Output = (128, 32, 32)
-            nn.Conv2d(in_channels=64, out_channels=128, kernel_size=3, stride=1, padding=1),
+            # # Convolutional Layer 3: Input = (64, 64, 64) → Output = (128, 32, 32)
+            # nn.Conv2d(in_channels=64, out_channels=128, kernel_size=3, stride=1, padding=1),
+            # nn.ReLU(),
+            # nn.MaxPool2d(kernel_size=2, stride=2)  
+            
+            # Prototype No.2: 7 conv - 3 fc
+            # Convolutional Layer 1: (3, 256, 256) → (32, 256, 256)
+            nn.Conv2d(3, 32, kernel_size=3, stride=1, padding=1),
             nn.ReLU(),
-            nn.MaxPool2d(kernel_size=2, stride=2)  
+            nn.MaxPool2d(kernel_size=2, stride=2),  # (32, 128, 128)
+
+            # Convolutional Layer 2: (32, 128, 128) → (64, 128, 128)
+            nn.Conv2d(32, 64, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.MaxPool2d(kernel_size=2, stride=2),  # (64, 64, 64)
+
+            # Convolutional Layer 3: (64, 64, 64) → (128, 64, 64)
+            nn.Conv2d(64, 128, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.MaxPool2d(kernel_size=2, stride=2),  # (128, 32, 32)
+
+            # Convolutional Layer 4: (128, 32, 32) → (256, 32, 32)
+            nn.Conv2d(128, 256, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.MaxPool2d(kernel_size=2, stride=2),  # (256, 16, 16)
+
+            # Convolutional Layer 5: (256, 16, 16) → (512, 16, 16)
+            nn.Conv2d(256, 512, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.MaxPool2d(kernel_size=2, stride=2),  # (512, 8, 8)
+
+            # Convolutional Layer 6: (512, 8, 8) → (512, 8, 8)
+            nn.Conv2d(512, 512, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+
+            # Convolutional Layer 7: (512, 8, 8) → (512, 8, 8)
+            nn.Conv2d(512, 512, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.MaxPool2d(kernel_size=2, stride=2)  # (512, 4, 4)
+            
             
             
         )
         
-        # Flattened feature vector (128 * 32 * 32 → output_dim)
-        self.fc = nn.Linear(128 * 32 * 32, 1024) 
-        self.relu = nn.ReLU()
-        self.dropout = nn.Dropout(0.5)
-        self.fc2 = nn.Linear(1024, output_dim) 
+        # # Flattened feature vector (128 * 32 * 32 → output_dim)
+        # self.fc = nn.Linear(512 * 4 * 4, 1024) 
+        # self.relu = nn.ReLU()
+        # self.dropout = nn.Dropout(0.5)
+        # self.fc2 = nn.Linear(1024, output_dim) 
+        
+        self.fc_layers = nn.Sequential(
+            nn.Linear(512 * 4 * 4, 1024),
+            nn.ReLU(),
+            nn.Dropout(0.5),
+
+            nn.Linear(1024, 512),
+            nn.ReLU(),
+            nn.Dropout(0.5),
+
+            nn.Linear(512, output_dim)
+        )
 
     def forward(self, x):
-        x = self.conv_layers(x)  # Pass through conv layers
+        x = self.conv_layers(x)  # Pass through convolutional layers
         x = x.view(x.size(0), -1)  # Flatten
-        x = self.relu(self.fc(x))  # Fully connected layer to second fc layer
-        # x = torch.sigmoid(x)  # Sigmoid activation
-        x = self.dropout(x)  # Dropout
-        x = self.fc2(x)
-        # x = torch.softmax(x, dim=1)
+        x = self.fc_layers(x)  # Fully connected layers
         return x
+
+    # def forward(self, x):
+    #     x = self.conv_layers(x)  # Pass through conv layers
+    #     x = x.view(x.size(0), -1)  # Flatten
+    #     x = self.relu(self.fc(x))  # Fully connected layer to second fc layer
+    #     # x = torch.sigmoid(x)  # Sigmoid activation
+    #     x = self.dropout(x)  # Dropout
+    #     x = self.fc2(x)
+    #     # x = torch.softmax(x, dim=1)
+    #     return x
     
     def preprocess(self, image_path, image=None):
         if image is None:
@@ -71,14 +126,19 @@ class CNN(nn.Module):
     def classify_image(self, image_path, device="cpu"):
         image = self.preprocess(image_path)
         image = image.to(device)
-        
+
         self.eval()
         with torch.no_grad():
             output = self(image)
-            predicted_class = torch.argmax(output, dim=1).item()  # Get predicted class index
-            confidence = torch.max(output).item()  # Get confidence score
-        
-        return predicted_class, confidence
+            probabilities = torch.softmax(output, dim=1)  # Convert logits to probabilities
+            top_probs, top_classes = torch.topk(probabilities, 10, dim=1)  # Get top 10
+
+        # Convert to Python list
+        top_classes = top_classes.squeeze(0).tolist()  # Class indices
+        top_probs = top_probs.squeeze(0).tolist()  # Confidence scores
+
+        return list(zip(top_classes, top_probs))  # Returns list of (class_index, confidence)
+
 
 
 class DogDataset(Dataset):
