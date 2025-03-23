@@ -1,0 +1,701 @@
+breed,image_path,question,answer,question_type
+Afghan,valid/Afghan/01.jpg,What grooming requirements are specific to a Afghan?,The Afghan is unique for its blend of gentle yet alert traits.,general
+Afghan,valid/Afghan/02.jpg,What are the defining physical features of a Afghan?,"A versatile breed, the Afghan combines adaptability with strong instincts.",general
+Afghan,valid/Afghan/03.jpg,How does the Afghan's temperament make it unique?,"This breed exhibits a stubborn personality, thriving in suburban homes.",temperament
+Afghan,valid/Afghan/04.jpg,What makes a Afghan suitable or unsuitable for first-time owners?,Afghans are known for their intelligence and unwavering loyalty.,general
+Afghan,valid/Afghan/05.jpg,What unique challenges come with training a Afghan?,"A versatile breed, the Afghan combines adaptability with keen intelligence.",general
+Afghan,valid/Afghan/06.jpg,What are the most recognizable personality traits of a Afghan?,"With a high-energy disposition, the Afghan fits well with families with children.",temperament
+Afghan,valid/Afghan/07.jpg,What grooming requirements are specific to a Afghan?,The Afghan is unique for its blend of agile and curious traits.,general
+Afghan,valid/Afghan/08.jpg,What makes a Afghan suitable for families?,The Afghan is best for experienced owners for family life due to its protective instincts.,suitability
+Afghan,valid/Afghan/09.jpg,How does the Afghan's coat affect its care needs?,"This breed stands out due to its 28 inches, 25 lbs, and broad chest.",appearance
+Afghan,valid/Afghan/10.jpg,What are the historical origins of the Afghan breed?,"Historically, the Afghan was known for palace guard in central Europe.",history
+African Wild Dog,valid/African Wild Dog/01.jpg,What makes a African Wild Dog suitable for families?,The African Wild Dog is moderately compatible for family life due to its playful demeanor.,suitability
+African Wild Dog,valid/African Wild Dog/02.jpg,How does the African Wild Dog's coat affect its care needs?,"African Wild Dogs are recognized by their medium, golden, and their curly tail.",appearance
+African Wild Dog,valid/African Wild Dog/03.jpg,How does the African Wild Dog's temperament make it unique?,"With a high-energy disposition, the African Wild Dog fits well with active owners.",temperament
+African Wild Dog,valid/African Wild Dog/04.jpg,What are the defining physical features of a African Wild Dog?,African Wild Dogs are known for their intelligence and playful energy.,general
+African Wild Dog,valid/African Wild Dog/05.jpg,What unique challenges come with training a African Wild Dog?,This breed stands out due to its gentle disposition and companionship.,general
+African Wild Dog,valid/African Wild Dog/06.jpg,How much exercise does a African Wild Dog need daily?,African Wild Dogs need a balanced diet and consistent joint care.,care
+African Wild Dog,valid/African Wild Dog/07.jpg,How does a African Wild Dog perform in dog sports or work roles?,"Historically, African Wild Dogs have performed well in tracking trials.",performance
+African Wild Dog,valid/African Wild Dog/08.jpg,What are the historical origins of the African Wild Dog breed?,"Historically, the African Wild Dog was known for palace guard in rural America.",history
+African Wild Dog,valid/African Wild Dog/09.jpg,What makes a African Wild Dog suitable or unsuitable for first-time owners?,"A versatile breed, the African Wild Dog combines adaptability with keen intelligence.",general
+African Wild Dog,valid/African Wild Dog/10.jpg,What are the defining physical features of a African Wild Dog?,African Wild Dogs are known for their endurance and playful energy.,general
+Airedale,valid/Airedale/01.jpg,What unique challenges come with training a Airedale?,Airedales are known for their endurance and unwavering loyalty.,general
+Airedale,valid/Airedale/02.jpg,What are the historical origins of the Airedale breed?,The Airedale traces its origins to England where it was used for hunting.,history
+Airedale,valid/Airedale/03.jpg,How does the Airedale's coat affect its care needs?,A defining characteristic of the Airedale is its double-layered fur and a unique mask pattern.,appearance
+Airedale,valid/Airedale/04.jpg,What are the defining physical features of a Airedale?,This breed stands out due to its gentle disposition and tracking.,general
+Airedale,valid/Airedale/05.jpg,What are the defining physical features of a Airedale?,This breed stands out due to its keen senses and guarding.,general
+Airedale,valid/Airedale/06.jpg,How does the Airedale's temperament make it unique?,"With a calm and patient disposition, the Airedale fits well with families with children.",temperament
+Airedale,valid/Airedale/07.jpg,What grooming requirements are specific to a Airedale?,Airedales are known for their intelligence and playful energy.,general
+Airedale,valid/Airedale/08.jpg,What unique challenges come with training a Airedale?,Airedales are known for their loyalty and playful energy.,general
+Airedale,valid/Airedale/09.jpg,How much exercise does a Airedale need daily?,Maintaining a Airedale involves frequent exercise sessions and occasional grooming.,care
+Airedale,valid/Airedale/10.jpg,What grooming requirements are specific to a Airedale?,The Airedale is unique for its blend of gentle yet alert traits.,general
+American  Spaniel,valid/American  Spaniel/01.jpg,How does the American  Spaniel interact with unfamiliar people and animals?,"A versatile breed, the American  Spaniel combines gentleness with playful nature.",general
+American  Spaniel,valid/American  Spaniel/02.jpg,What are the historical origins of the American  Spaniel breed?,American  Spaniels have a legacy of royal service dating back to the medieval period.,history
+American  Spaniel,valid/American  Spaniel/03.jpg,How much exercise does a American  Spaniel need daily?,The American  Spaniel requires moderate activity and routine coat maintenance to stay healthy.,care
+American  Spaniel,valid/American  Spaniel/04.jpg,What grooming requirements are specific to a American  Spaniel?,The American  Spaniel is unique for its blend of athletic and loyal traits.,general
+American  Spaniel,valid/American  Spaniel/05.jpg,What makes a American  Spaniel suitable for families?,"With its calm demeanor, the American  Spaniel is better for solo owners.",suitability
+American  Spaniel,valid/American  Spaniel/06.jpg,What makes a American  Spaniel suitable for families?,"With its versatile temperament, the American  Spaniel is better for solo owners.",suitability
+American  Spaniel,valid/American  Spaniel/07.jpg,What unique challenges come with training a American  Spaniel?,"A versatile breed, the American  Spaniel combines courage with playful nature.",general
+American  Spaniel,valid/American  Spaniel/08.jpg,What are the most recognizable personality traits of a American  Spaniel?,"American  Spaniels are generally friendly, which makes them adapt well to social settings.",temperament
+American  Spaniel,valid/American  Spaniel/09.jpg,How does the American  Spaniel's temperament make it unique?,"The American  Spaniel is known for its independent nature, making it better suited to experienced owners.",temperament
+American  Spaniel,valid/American  Spaniel/10.jpg,How does a American  Spaniel perform in dog sports or work roles?,The American  Spaniel excels in hunting expertise and is known for endurance.,performance
+American Hairless,valid/American Hairless/01.jpg,What unique challenges come with training a American Hairless?,"A versatile breed, the American Hairless combines courage with keen intelligence.",general
+American Hairless,valid/American Hairless/02.jpg,What grooming requirements are specific to a American Hairless?,"A versatile breed, the American Hairless combines courage with keen intelligence.",general
+American Hairless,valid/American Hairless/03.jpg,How does the American Hairless's temperament make it unique?,"This breed exhibits a stubborn personality, thriving in wide-open spaces.",temperament
+American Hairless,valid/American Hairless/04.jpg,How does a American Hairless perform in dog sports or work roles?,The American Hairless excels in hunting expertise and is known for strength.,performance
+American Hairless,valid/American Hairless/05.jpg,What are the historical origins of the American Hairless breed?,The American Hairless traces its origins to Japan where it was used for herding livestock.,history
+American Hairless,valid/American Hairless/06.jpg,How does the American Hairless's coat affect its care needs?,A defining characteristic of the American Hairless is its short fur and a unique mask pattern.,appearance
+American Hairless,valid/American Hairless/07.jpg,What are the historical origins of the American Hairless breed?,"Bred initially for tracking prey, the American Hairless became valued for strength and stamina.",history
+American Hairless,valid/American Hairless/08.jpg,What are the historical origins of the American Hairless breed?,"Historically, the American Hairless was known for livestock guardian in central Europe.",history
+American Hairless,valid/American Hairless/09.jpg,What are the defining physical features of a American Hairless?,This breed stands out due to its athletic prowess and companionship.,general
+American Hairless,valid/American Hairless/10.jpg,How does the American Hairless's temperament make it unique?,"This breed exhibits a loyal personality, thriving in suburban homes.",temperament
+Basenji,valid/Basenji/01.jpg,What makes a Basenji suitable or unsuitable for first-time owners?,Basenjis are known for their endurance and unwavering loyalty.,general
+Basenji,valid/Basenji/02.jpg,What makes a Basenji suitable or unsuitable for first-time owners?,"A versatile breed, the Basenji combines gentleness with strong instincts.",general
+Basenji,valid/Basenji/03.jpg,How much exercise does a Basenji need daily?,Maintaining a Basenji involves light activity and occasional grooming.,care
+Basenji,valid/Basenji/04.jpg,What makes a Basenji suitable or unsuitable for first-time owners?,The Basenji is unique for its blend of agile and curious traits.,general
+Basenji,valid/Basenji/05.jpg,What grooming requirements are specific to a Basenji?,Basenjis are known for their endurance and intuitive nature.,general
+Basenji,valid/Basenji/06.jpg,What makes a Basenji suitable or unsuitable for first-time owners?,This breed stands out due to its athletic prowess and guarding.,general
+Basenji,valid/Basenji/07.jpg,What grooming requirements are specific to a Basenji?,This breed stands out due to its gentle disposition and guarding.,general
+Basenji,valid/Basenji/08.jpg,What makes a Basenji suitable for families?,The Basenji is best for experienced owners for family life due to its gentle nature.,suitability
+Basenji,valid/Basenji/09.jpg,How does the Basenji's coat affect its care needs?,"This breed stands out due to its 15 inches, 80 lbs, and feathered coat.",appearance
+Basenji,valid/Basenji/10.jpg,What are the most recognizable personality traits of a Basenji?,"This breed exhibits a loyal personality, thriving in suburban homes.",temperament
+Basset,valid/Basset/01.jpg,What are the most recognizable personality traits of a Basset?,"Bassets are generally energetic, which makes them prefer quiet environments.",temperament
+Basset,valid/Basset/02.jpg,What are the defining physical features of a Basset?,The Basset is unique for its blend of gentle yet alert traits.,general
+Basset,valid/Basset/03.jpg,How much exercise does a Basset need daily?,Maintaining a Basset involves daily walks and occasional grooming.,care
+Basset,valid/Basset/04.jpg,What makes a Basset suitable for families?,"With its protective nature, the Basset is suitable for large families.",suitability
+Basset,valid/Basset/05.jpg,What makes a Basset suitable or unsuitable for first-time owners?,Bassets are known for their loyalty and unwavering loyalty.,general
+Basset,valid/Basset/06.jpg,What are the most recognizable personality traits of a Basset?,"With a high-energy disposition, the Basset fits well with experienced handlers.",temperament
+Basset,valid/Basset/07.jpg,How much exercise does a Basset need daily?,The Basset requires intense activity and regular trimming to stay healthy.,care
+Basset,valid/Basset/08.jpg,What are the historical origins of the Basset breed?,"Historically, the Basset was known for hunting companion in the Far East.",history
+Basset,valid/Basset/09.jpg,What are the most recognizable personality traits of a Basset?,"With a balanced disposition, the Basset fits well with experienced handlers.",temperament
+Basset,valid/Basset/10.jpg,How much exercise does a Basset need daily?,"To keep a Basset in top shape, regular tailored nutrition is recommended.",care
+Beagle,valid/Beagle/01.jpg,What unique challenges come with training a Beagle?,The Beagle is unique for its blend of gentle yet alert traits.,general
+Beagle,valid/Beagle/02.jpg,What grooming requirements are specific to a Beagle?,The Beagle is unique for its blend of athletic and loyal traits.,general
+Beagle,valid/Beagle/03.jpg,What are the historical origins of the Beagle breed?,"Bred initially for tracking prey, the Beagle became valued for strength and stamina.",history
+Beagle,valid/Beagle/04.jpg,What grooming requirements are specific to a Beagle?,"A versatile breed, the Beagle combines adaptability with strong instincts.",general
+Beagle,valid/Beagle/05.jpg,What are the defining physical features of a Beagle?,Beagles are known for their loyalty and intuitive nature.,general
+Beagle,valid/Beagle/06.jpg,How does the Beagle's temperament make it unique?,"The Beagle is known for its independent nature, making it an excellent family pet.",temperament
+Beagle,valid/Beagle/07.jpg,What are the most recognizable personality traits of a Beagle?,"Beagles are generally friendly, which makes them prefer quiet environments.",temperament
+Beagle,valid/Beagle/08.jpg,What unique challenges come with training a Beagle?,The Beagle is unique for its blend of gentle yet alert traits.,general
+Beagle,valid/Beagle/09.jpg,What unique challenges come with training a Beagle?,"A versatile breed, the Beagle combines gentleness with playful nature.",general
+Beagle,valid/Beagle/10.jpg,How does the Beagle interact with unfamiliar people and animals?,"A versatile breed, the Beagle combines courage with keen intelligence.",general
+Bearded Collie,valid/Bearded Collie/01.jpg,How does the Bearded Collie's coat affect its care needs?,"The Bearded Collie is famous for its smooth coat, which is moderate grooming needs.",appearance
+Bearded Collie,valid/Bearded Collie/02.jpg,What are the historical origins of the Bearded Collie breed?,Bearded Collies have a legacy of village protection dating back to ancient times.,history
+Bearded Collie,valid/Bearded Collie/03.jpg,How does the Bearded Collie interact with unfamiliar people and animals?,"A versatile breed, the Bearded Collie combines adaptability with playful nature.",general
+Bearded Collie,valid/Bearded Collie/04.jpg,What are the defining physical features of a Bearded Collie?,"A versatile breed, the Bearded Collie combines courage with keen intelligence.",general
+Bearded Collie,valid/Bearded Collie/05.jpg,What makes a Bearded Collie suitable for families?,"With its protective nature, the Bearded Collie is suitable for large families.",suitability
+Bearded Collie,valid/Bearded Collie/06.jpg,How does a Bearded Collie perform in dog sports or work roles?,"Historically, Bearded Collies have performed well in obedience sports.",performance
+Bearded Collie,valid/Bearded Collie/07.jpg,How much exercise does a Bearded Collie need daily?,"To keep a Bearded Collie in top shape, regular a mix of exercise and grooming is recommended.",care
+Bearded Collie,valid/Bearded Collie/08.jpg,How does the Bearded Collie's temperament make it unique?,"Bearded Collies are generally friendly, which makes them prefer quiet environments.",temperament
+Bearded Collie,valid/Bearded Collie/09.jpg,What makes a Bearded Collie suitable or unsuitable for first-time owners?,"A versatile breed, the Bearded Collie combines courage with playful nature.",general
+Bearded Collie,valid/Bearded Collie/10.jpg,How does the Bearded Collie's coat affect its care needs?,A defining characteristic of the Bearded Collie is its medium fur and a unique mask pattern.,appearance
+Bermaise,valid/Bermaise/01.jpg,What are the historical origins of the Bermaise breed?,"Bred initially for tracking prey, the Bermaise became valued for acute scent detection.",history
+Bermaise,valid/Bermaise/02.jpg,What are the most recognizable personality traits of a Bermaise?,"The Bermaise is known for its independent nature, making it better suited to experienced owners.",temperament
+Bermaise,valid/Bermaise/03.jpg,What are the historical origins of the Bermaise breed?,"Bred initially for herding flocks, the Bermaise became valued for acute scent detection.",history
+Bermaise,valid/Bermaise/04.jpg,What are the historical origins of the Bermaise breed?,The Bermaise traces its origins to United States where it was used for herding livestock.,history
+Bermaise,valid/Bermaise/05.jpg,How does the Bermaise's coat affect its care needs?,"The Bermaise is famous for its silky coat, which is low maintenance.",appearance
+Bermaise,valid/Bermaise/06.jpg,How does the Bermaise's temperament make it unique?,"This breed exhibits a intelligent personality, thriving in suburban homes.",temperament
+Bermaise,valid/Bermaise/07.jpg,What makes a Bermaise suitable for families?,The Bermaise is moderately compatible for family life due to its playful demeanor.,suitability
+Bermaise,valid/Bermaise/08.jpg,How does the Bermaise interact with unfamiliar people and animals?,"A versatile breed, the Bermaise combines gentleness with strong instincts.",general
+Bermaise,valid/Bermaise/09.jpg,What are the most recognizable personality traits of a Bermaise?,"Bermaises are generally energetic, which makes them adapt well to social settings.",temperament
+Bermaise,valid/Bermaise/10.jpg,What makes a Bermaise suitable for families?,The Bermaise is highly suitable for family life due to its protective instincts.,suitability
+Bichon Frise,valid/Bichon Frise/01.jpg,How does the Bichon Frise interact with unfamiliar people and animals?,This breed stands out due to its athletic prowess and companionship.,general
+Bichon Frise,valid/Bichon Frise/02.jpg,What unique challenges come with training a Bichon Frise?,"A versatile breed, the Bichon Frise combines adaptability with keen intelligence.",general
+Bichon Frise,valid/Bichon Frise/03.jpg,What are the most recognizable personality traits of a Bichon Frise?,"The Bichon Frise is known for its playful nature, making it better suited to experienced owners.",temperament
+Bichon Frise,valid/Bichon Frise/04.jpg,What are the historical origins of the Bichon Frise breed?,"Bred initially for protecting estates, the Bichon Frise became valued for strength and stamina.",history
+Bichon Frise,valid/Bichon Frise/05.jpg,How does the Bichon Frise's temperament make it unique?,"The Bichon Frise is known for its independent nature, making it an excellent family pet.",temperament
+Bichon Frise,valid/Bichon Frise/06.jpg,How much exercise does a Bichon Frise need daily?,"To keep a Bichon Frise in top shape, regular a mix of exercise and grooming is recommended.",care
+Bichon Frise,valid/Bichon Frise/07.jpg,What are the defining physical features of a Bichon Frise?,This breed stands out due to its gentle disposition and tracking.,general
+Bichon Frise,valid/Bichon Frise/08.jpg,What makes a Bichon Frise suitable or unsuitable for first-time owners?,"A versatile breed, the Bichon Frise combines gentleness with strong instincts.",general
+Bichon Frise,valid/Bichon Frise/09.jpg,How does the Bichon Frise's temperament make it unique?,"Bichon Frises are generally reserved, which makes them adapt well to social settings.",temperament
+Bichon Frise,valid/Bichon Frise/10.jpg,How does the Bichon Frise interact with unfamiliar people and animals?,"A versatile breed, the Bichon Frise combines gentleness with strong instincts.",general
+Blenheim,valid/Blenheim/01.jpg,What are the defining physical features of a Blenheim?,This breed stands out due to its athletic prowess and guarding.,general
+Blenheim,valid/Blenheim/02.jpg,What unique challenges come with training a Blenheim?,The Blenheim is unique for its blend of athletic and loyal traits.,general
+Blenheim,valid/Blenheim/03.jpg,What are the defining physical features of a Blenheim?,Blenheims are known for their endurance and unwavering loyalty.,general
+Blenheim,valid/Blenheim/04.jpg,What are the most recognizable personality traits of a Blenheim?,"Blenheims are generally energetic, which makes them adapt well to social settings.",temperament
+Blenheim,valid/Blenheim/05.jpg,What makes a Blenheim suitable for families?,The Blenheim is highly suitable for family life due to its protective instincts.,suitability
+Blenheim,valid/Blenheim/06.jpg,What makes a Blenheim suitable or unsuitable for first-time owners?,The Blenheim is unique for its blend of agile and curious traits.,general
+Blenheim,valid/Blenheim/07.jpg,How much exercise does a Blenheim need daily?,The Blenheim requires moderate activity and minimal grooming to stay healthy.,care
+Blenheim,valid/Blenheim/08.jpg,How much exercise does a Blenheim need daily?,Blenheims need a balanced diet and consistent regular check-ups.,care
+Blenheim,valid/Blenheim/09.jpg,How much exercise does a Blenheim need daily?,"To keep a Blenheim in top shape, regular frequent vet visits is recommended.",care
+Blenheim,valid/Blenheim/10.jpg,What are the most recognizable personality traits of a Blenheim?,"This breed exhibits a intelligent personality, thriving in suburban homes.",temperament
+Bloodhound,valid/Bloodhound/01.jpg,What are the defining physical features of a Bloodhound?,Bloodhounds are known for their endurance and playful energy.,general
+Bloodhound,valid/Bloodhound/02.jpg,What are the most recognizable personality traits of a Bloodhound?,"The Bloodhound is known for its protective nature, making it an excellent family pet.",temperament
+Bloodhound,valid/Bloodhound/03.jpg,What grooming requirements are specific to a Bloodhound?,"A versatile breed, the Bloodhound combines adaptability with strong instincts.",general
+Bloodhound,valid/Bloodhound/04.jpg,How does a Bloodhound perform in dog sports or work roles?,The Bloodhound excels in guarding instincts and is known for strength.,performance
+Bloodhound,valid/Bloodhound/05.jpg,How much exercise does a Bloodhound need daily?,Maintaining a Bloodhound involves daily walks and frequent coat care.,care
+Bloodhound,valid/Bloodhound/06.jpg,How does a Bloodhound perform in dog sports or work roles?,The Bloodhound excels in hunting expertise and is known for intelligence.,performance
+Bloodhound,valid/Bloodhound/07.jpg,How does the Bloodhound interact with unfamiliar people and animals?,The Bloodhound is unique for its blend of agile and curious traits.,general
+Bloodhound,valid/Bloodhound/08.jpg,What are the most recognizable personality traits of a Bloodhound?,"This breed exhibits a stubborn personality, thriving in wide-open spaces.",temperament
+Bloodhound,valid/Bloodhound/09.jpg,How does the Bloodhound's temperament make it unique?,"Bloodhounds are generally curious, which makes them prefer quiet environments.",temperament
+Bloodhound,valid/Bloodhound/10.jpg,What makes a Bloodhound suitable for families?,"With its versatile temperament, the Bloodhound is suitable for large families.",suitability
+Bluetick,valid/Bluetick/01.jpg,How does the Bluetick's temperament make it unique?,"This breed exhibits a intelligent personality, thriving in wide-open spaces.",temperament
+Bluetick,valid/Bluetick/02.jpg,What makes a Bluetick suitable or unsuitable for first-time owners?,The Bluetick is unique for its blend of athletic and loyal traits.,general
+Bluetick,valid/Bluetick/03.jpg,How much exercise does a Bluetick need daily?,"To keep a Bluetick in top shape, regular frequent vet visits is recommended.",care
+Bluetick,valid/Bluetick/04.jpg,How does the Bluetick's coat affect its care needs?,"This breed stands out due to its 22 inches, 25 lbs, and broad chest.",appearance
+Bluetick,valid/Bluetick/05.jpg,What grooming requirements are specific to a Bluetick?,This breed stands out due to its keen senses and tracking.,general
+Bluetick,valid/Bluetick/06.jpg,How does a Bluetick perform in dog sports or work roles?,This breed is valued for its focus and search and rescue.,performance
+Bluetick,valid/Bluetick/07.jpg,What are the most recognizable personality traits of a Bluetick?,"With a balanced disposition, the Bluetick fits well with families with children.",temperament
+Bluetick,valid/Bluetick/08.jpg,What grooming requirements are specific to a Bluetick?,Blueticks are known for their intelligence and playful energy.,general
+Bluetick,valid/Bluetick/09.jpg,What are the defining physical features of a Bluetick?,"A versatile breed, the Bluetick combines gentleness with strong instincts.",general
+Bluetick,valid/Bluetick/10.jpg,What are the defining physical features of a Bluetick?,This breed stands out due to its keen senses and tracking.,general
+Border Collie,valid/Border Collie/01.jpg,What makes a Border Collie suitable for families?,Border Collies are good with children with children and in city apartments.,suitability
+Border Collie,valid/Border Collie/02.jpg,How does the Border Collie's coat affect its care needs?,"Border Collies are recognized by their small, chocolate, and their muscular frame.",appearance
+Border Collie,valid/Border Collie/03.jpg,What unique challenges come with training a Border Collie?,This breed stands out due to its gentle disposition and companionship.,general
+Border Collie,valid/Border Collie/04.jpg,What are the most recognizable personality traits of a Border Collie?,"Border Collies are generally curious, which makes them adapt well to social settings.",temperament
+Border Collie,valid/Border Collie/05.jpg,How much exercise does a Border Collie need daily?,Border Collies need a specialized diet and consistent dental hygiene.,care
+Border Collie,valid/Border Collie/06.jpg,How does the Border Collie interact with unfamiliar people and animals?,Border Collies are known for their endurance and playful energy.,general
+Border Collie,valid/Border Collie/07.jpg,How does a Border Collie perform in dog sports or work roles?,"With its stamina, the Border Collie is suited for companion work.",performance
+Border Collie,valid/Border Collie/08.jpg,How does the Border Collie's temperament make it unique?,"Border Collies are generally energetic, which makes them prefer quiet environments.",temperament
+Border Collie,valid/Border Collie/09.jpg,What are the most recognizable personality traits of a Border Collie?,"Border Collies are generally energetic, which makes them adapt well to social settings.",temperament
+Border Collie,valid/Border Collie/10.jpg,How does the Border Collie interact with unfamiliar people and animals?,Border Collies are known for their endurance and intuitive nature.,general
+Borzoi,valid/Borzoi/01.jpg,How does a Borzoi perform in dog sports or work roles?,This breed is valued for its stamina and police work.,performance
+Borzoi,valid/Borzoi/02.jpg,How does a Borzoi perform in dog sports or work roles?,This breed is valued for its stamina and therapy assistance.,performance
+Borzoi,valid/Borzoi/03.jpg,What are the most recognizable personality traits of a Borzoi?,"With a calm and patient disposition, the Borzoi fits well with experienced handlers.",temperament
+Borzoi,valid/Borzoi/04.jpg,What are the defining physical features of a Borzoi?,This breed stands out due to its athletic prowess and guarding.,general
+Borzoi,valid/Borzoi/05.jpg,How much exercise does a Borzoi need daily?,Maintaining a Borzoi involves frequent exercise sessions and regular brushing.,care
+Borzoi,valid/Borzoi/06.jpg,How does the Borzoi interact with unfamiliar people and animals?,"A versatile breed, the Borzoi combines courage with keen intelligence.",general
+Borzoi,valid/Borzoi/07.jpg,What makes a Borzoi suitable or unsuitable for first-time owners?,"A versatile breed, the Borzoi combines courage with playful nature.",general
+Borzoi,valid/Borzoi/08.jpg,What grooming requirements are specific to a Borzoi?,The Borzoi is unique for its blend of agile and curious traits.,general
+Borzoi,valid/Borzoi/09.jpg,What are the defining physical features of a Borzoi?,"A versatile breed, the Borzoi combines courage with strong instincts.",general
+Borzoi,valid/Borzoi/10.jpg,How does the Borzoi's coat affect its care needs?,"This breed stands out due to its 28 inches, 50 lbs, and sharp muzzle.",appearance
+Boston Terrier,valid/Boston Terrier/01.jpg,What are the defining physical features of a Boston Terrier?,This breed stands out due to its gentle disposition and companionship.,general
+Boston Terrier,valid/Boston Terrier/02.jpg,What grooming requirements are specific to a Boston Terrier?,Boston Terriers are known for their intelligence and intuitive nature.,general
+Boston Terrier,valid/Boston Terrier/03.jpg,How does the Boston Terrier interact with unfamiliar people and animals?,This breed stands out due to its gentle disposition and companionship.,general
+Boston Terrier,valid/Boston Terrier/04.jpg,How does the Boston Terrier's temperament make it unique?,"Boston Terriers are generally reserved, which makes them adapt well to social settings.",temperament
+Boston Terrier,valid/Boston Terrier/05.jpg,How does a Boston Terrier perform in dog sports or work roles?,"With its stamina, the Boston Terrier is suited for guarding duties.",performance
+Boston Terrier,valid/Boston Terrier/06.jpg,How does the Boston Terrier's temperament make it unique?,"With a high-energy disposition, the Boston Terrier fits well with families with children.",temperament
+Boston Terrier,valid/Boston Terrier/07.jpg,What makes a Boston Terrier suitable or unsuitable for first-time owners?,"A versatile breed, the Boston Terrier combines gentleness with playful nature.",general
+Boston Terrier,valid/Boston Terrier/08.jpg,What grooming requirements are specific to a Boston Terrier?,Boston Terriers are known for their endurance and unwavering loyalty.,general
+Boston Terrier,valid/Boston Terrier/09.jpg,How much exercise does a Boston Terrier need daily?,The Boston Terrier requires moderate activity and regular trimming to stay healthy.,care
+Boston Terrier,valid/Boston Terrier/10.jpg,How does the Boston Terrier's temperament make it unique?,"The Boston Terrier is known for its protective nature, making it better suited to experienced owners.",temperament
+Boxer,valid/Boxer/01.jpg,What are the historical origins of the Boxer breed?,"Bred initially for protecting estates, the Boxer became valued for agility.",history
+Boxer,valid/Boxer/02.jpg,What are the most recognizable personality traits of a Boxer?,"The Boxer is known for its playful nature, making it better suited to experienced owners.",temperament
+Boxer,valid/Boxer/03.jpg,What are the historical origins of the Boxer breed?,"Historically, the Boxer was known for livestock guardian in the Far East.",history
+Boxer,valid/Boxer/04.jpg,How does the Boxer interact with unfamiliar people and animals?,"A versatile breed, the Boxer combines gentleness with strong instincts.",general
+Boxer,valid/Boxer/05.jpg,How does the Boxer's coat affect its care needs?,"The Boxer is famous for its wiry coat, which is low maintenance.",appearance
+Boxer,valid/Boxer/06.jpg,How much exercise does a Boxer need daily?,Maintaining a Boxer involves daily walks and frequent coat care.,care
+Boxer,valid/Boxer/07.jpg,How does the Boxer interact with unfamiliar people and animals?,The Boxer is unique for its blend of athletic and loyal traits.,general
+Boxer,valid/Boxer/08.jpg,How does a Boxer perform in dog sports or work roles?,This breed is valued for its stamina and therapy assistance.,performance
+Boxer,valid/Boxer/09.jpg,What makes a Boxer suitable or unsuitable for first-time owners?,This breed stands out due to its gentle disposition and companionship.,general
+Boxer,valid/Boxer/10.jpg,How much exercise does a Boxer need daily?,"To keep a Boxer in top shape, regular tailored nutrition is recommended.",care
+Bull Mastiff,valid/Bull Mastiff/01.jpg,How does a Bull Mastiff perform in dog sports or work roles?,"Historically, Bull Mastiffs have performed well in obedience sports.",performance
+Bull Mastiff,valid/Bull Mastiff/02.jpg,What are the historical origins of the Bull Mastiff breed?,Bull Mastiffs have a legacy of village protection dating back to the medieval period.,history
+Bull Mastiff,valid/Bull Mastiff/03.jpg,What grooming requirements are specific to a Bull Mastiff?,"A versatile breed, the Bull Mastiff combines courage with strong instincts.",general
+Bull Mastiff,valid/Bull Mastiff/04.jpg,What are the most recognizable personality traits of a Bull Mastiff?,"Bull Mastiffs are generally friendly, which makes them prefer quiet environments.",temperament
+Bull Mastiff,valid/Bull Mastiff/05.jpg,How does the Bull Mastiff's temperament make it unique?,"With a calm and patient disposition, the Bull Mastiff fits well with families with children.",temperament
+Bull Mastiff,valid/Bull Mastiff/06.jpg,How does the Bull Mastiff interact with unfamiliar people and animals?,This breed stands out due to its keen senses and companionship.,general
+Bull Mastiff,valid/Bull Mastiff/07.jpg,What are the defining physical features of a Bull Mastiff?,Bull Mastiffs are known for their intelligence and intuitive nature.,general
+Bull Mastiff,valid/Bull Mastiff/08.jpg,What makes a Bull Mastiff suitable for families?,"With its protective nature, the Bull Mastiff is suitable for large families.",suitability
+Bull Mastiff,valid/Bull Mastiff/09.jpg,How does the Bull Mastiff's temperament make it unique?,"This breed exhibits a intelligent personality, thriving in wide-open spaces.",temperament
+Bull Mastiff,valid/Bull Mastiff/10.jpg,What are the most recognizable personality traits of a Bull Mastiff?,"The Bull Mastiff is known for its independent nature, making it an excellent family pet.",temperament
+Bull Terrier,valid/Bull Terrier/01.jpg,What are the defining physical features of a Bull Terrier?,This breed stands out due to its keen senses and tracking.,general
+Bull Terrier,valid/Bull Terrier/02.jpg,How does a Bull Terrier perform in dog sports or work roles?,"With its jumping ability, the Bull Terrier is suited for hunting tasks.",performance
+Bull Terrier,valid/Bull Terrier/03.jpg,What are the defining physical features of a Bull Terrier?,This breed stands out due to its athletic prowess and guarding.,general
+Bull Terrier,valid/Bull Terrier/04.jpg,What are the defining physical features of a Bull Terrier?,The Bull Terrier is unique for its blend of agile and curious traits.,general
+Bull Terrier,valid/Bull Terrier/05.jpg,What are the defining physical features of a Bull Terrier?,Bull Terriers are known for their loyalty and playful energy.,general
+Bull Terrier,valid/Bull Terrier/06.jpg,What makes a Bull Terrier suitable for families?,This breed is an ideal family pet and thrives in multi-pet homes.,suitability
+Bull Terrier,valid/Bull Terrier/07.jpg,What makes a Bull Terrier suitable or unsuitable for first-time owners?,"A versatile breed, the Bull Terrier combines gentleness with strong instincts.",general
+Bull Terrier,valid/Bull Terrier/08.jpg,How does the Bull Terrier's coat affect its care needs?,"Bull Terriers are recognized by their large, chocolate, and their floppy ears.",appearance
+Bull Terrier,valid/Bull Terrier/09.jpg,How does the Bull Terrier's temperament make it unique?,"Bull Terriers are generally friendly, which makes them prefer quiet environments.",temperament
+Bull Terrier,valid/Bull Terrier/10.jpg,How does the Bull Terrier's temperament make it unique?,"This breed exhibits a loyal personality, thriving in suburban homes.",temperament
+Bulldog,valid/Bulldog/01.jpg,What grooming requirements are specific to a Bulldog?,Bulldogs are known for their loyalty and intuitive nature.,general
+Bulldog,valid/Bulldog/02.jpg,How does a Bulldog perform in dog sports or work roles?,The Bulldog excels in hunting expertise and is known for intelligence.,performance
+Bulldog,valid/Bulldog/03.jpg,What makes a Bulldog suitable or unsuitable for first-time owners?,This breed stands out due to its keen senses and guarding.,general
+Bulldog,valid/Bulldog/04.jpg,How does the Bulldog's coat affect its care needs?,"This breed stands out due to its 28 inches, 25 lbs, and broad chest.",appearance
+Bulldog,valid/Bulldog/05.jpg,How much exercise does a Bulldog need daily?,Bulldogs need a balanced diet and consistent dental hygiene.,care
+Bulldog,valid/Bulldog/06.jpg,How much exercise does a Bulldog need daily?,Bulldogs need a a protein-rich diet and consistent regular check-ups.,care
+Bulldog,valid/Bulldog/07.jpg,How does the Bulldog's temperament make it unique?,"The Bulldog is known for its independent nature, making it an excellent family pet.",temperament
+Bulldog,valid/Bulldog/08.jpg,How does the Bulldog's temperament make it unique?,"Bulldogs are generally curious, which makes them adapt well to social settings.",temperament
+Bulldog,valid/Bulldog/09.jpg,What are the most recognizable personality traits of a Bulldog?,"This breed exhibits a intelligent personality, thriving in wide-open spaces.",temperament
+Bulldog,valid/Bulldog/10.jpg,What are the defining physical features of a Bulldog?,This breed stands out due to its athletic prowess and tracking.,general
+Cairn,valid/Cairn/01.jpg,How does the Cairn interact with unfamiliar people and animals?,This breed stands out due to its keen senses and guarding.,general
+Cairn,valid/Cairn/02.jpg,How does the Cairn interact with unfamiliar people and animals?,This breed stands out due to its keen senses and tracking.,general
+Cairn,valid/Cairn/03.jpg,How does a Cairn perform in dog sports or work roles?,The Cairn excels in hunting expertise and is known for intelligence.,performance
+Cairn,valid/Cairn/04.jpg,What unique challenges come with training a Cairn?,This breed stands out due to its athletic prowess and guarding.,general
+Cairn,valid/Cairn/05.jpg,What unique challenges come with training a Cairn?,The Cairn is unique for its blend of agile and curious traits.,general
+Cairn,valid/Cairn/06.jpg,How does the Cairn's temperament make it unique?,"This breed exhibits a intelligent personality, thriving in suburban homes.",temperament
+Cairn,valid/Cairn/07.jpg,What unique challenges come with training a Cairn?,The Cairn is unique for its blend of athletic and loyal traits.,general
+Cairn,valid/Cairn/08.jpg,What unique challenges come with training a Cairn?,"A versatile breed, the Cairn combines courage with strong instincts.",general
+Cairn,valid/Cairn/09.jpg,How does a Cairn perform in dog sports or work roles?,The Cairn excels in hunting expertise and is known for endurance.,performance
+Cairn,valid/Cairn/10.jpg,What are the historical origins of the Cairn breed?,The Cairn traces its origins to Germany where it was used for guarding.,history
+Chihuahua,valid/Chihuahua/01.jpg,How much exercise does a Chihuahua need daily?,"To keep a Chihuahua in top shape, regular tailored nutrition is recommended.",care
+Chihuahua,valid/Chihuahua/02.jpg,What unique challenges come with training a Chihuahua?,The Chihuahua is unique for its blend of athletic and loyal traits.,general
+Chihuahua,valid/Chihuahua/03.jpg,What makes a Chihuahua suitable or unsuitable for first-time owners?,The Chihuahua is unique for its blend of agile and curious traits.,general
+Chihuahua,valid/Chihuahua/04.jpg,What makes a Chihuahua suitable for families?,Chihuahuas are good with children with children and in spacious homes.,suitability
+Chihuahua,valid/Chihuahua/05.jpg,How much exercise does a Chihuahua need daily?,Chihuahuas need a balanced diet and consistent joint care.,care
+Chihuahua,valid/Chihuahua/06.jpg,What are the historical origins of the Chihuahua breed?,The Chihuahua traces its origins to England where it was used for herding livestock.,history
+Chihuahua,valid/Chihuahua/07.jpg,What grooming requirements are specific to a Chihuahua?,This breed stands out due to its gentle disposition and guarding.,general
+Chihuahua,valid/Chihuahua/08.jpg,How does a Chihuahua perform in dog sports or work roles?,"With its jumping ability, the Chihuahua is suited for hunting tasks.",performance
+Chihuahua,valid/Chihuahua/09.jpg,What unique challenges come with training a Chihuahua?,The Chihuahua is unique for its blend of gentle yet alert traits.,general
+Chihuahua,valid/Chihuahua/10.jpg,How does a Chihuahua perform in dog sports or work roles?,The Chihuahua excels in guarding instincts and is known for intelligence.,performance
+Chinese Crested,valid/Chinese Crested/01.jpg,How does a Chinese Crested perform in dog sports or work roles?,The Chinese Crested excels in guarding instincts and is known for intelligence.,performance
+Chinese Crested,valid/Chinese Crested/02.jpg,What are the defining physical features of a Chinese Crested?,This breed stands out due to its gentle disposition and tracking.,general
+Chinese Crested,valid/Chinese Crested/03.jpg,What are the most recognizable personality traits of a Chinese Crested?,"With a high-energy disposition, the Chinese Crested fits well with experienced handlers.",temperament
+Chinese Crested,valid/Chinese Crested/04.jpg,How does the Chinese Crested interact with unfamiliar people and animals?,"A versatile breed, the Chinese Crested combines adaptability with keen intelligence.",general
+Chinese Crested,valid/Chinese Crested/05.jpg,What are the defining physical features of a Chinese Crested?,This breed stands out due to its athletic prowess and tracking.,general
+Chinese Crested,valid/Chinese Crested/06.jpg,What are the defining physical features of a Chinese Crested?,Chinese Cresteds are known for their intelligence and playful energy.,general
+Chinese Crested,valid/Chinese Crested/07.jpg,How does the Chinese Crested's coat affect its care needs?,"Chinese Cresteds are recognized by their small, golden, and their muscular frame.",appearance
+Chinese Crested,valid/Chinese Crested/08.jpg,What are the historical origins of the Chinese Crested breed?,Chinese Cresteds have a legacy of royal service dating back to ancient times.,history
+Chinese Crested,valid/Chinese Crested/09.jpg,How does the Chinese Crested interact with unfamiliar people and animals?,This breed stands out due to its athletic prowess and companionship.,general
+Chinese Crested,valid/Chinese Crested/10.jpg,How does the Chinese Crested's coat affect its care needs?,"Chinese Cresteds are recognized by their small, brindle, and their muscular frame.",appearance
+Chow,valid/Chow/01.jpg,What grooming requirements are specific to a Chow?,"A versatile breed, the Chow combines courage with strong instincts.",general
+Chow,valid/Chow/02.jpg,How much exercise does a Chow need daily?,Chows need a a protein-rich diet and consistent dental hygiene.,care
+Chow,valid/Chow/03.jpg,What are the defining physical features of a Chow?,The Chow is unique for its blend of agile and curious traits.,general
+Chow,valid/Chow/04.jpg,What are the historical origins of the Chow breed?,"Bred initially for protecting estates, the Chow became valued for agility.",history
+Chow,valid/Chow/05.jpg,How does the Chow's coat affect its care needs?,"This breed stands out due to its 22 inches, 25 lbs, and broad chest.",appearance
+Chow,valid/Chow/06.jpg,How much exercise does a Chow need daily?,Maintaining a Chow involves frequent exercise sessions and frequent coat care.,care
+Chow,valid/Chow/07.jpg,What makes a Chow suitable or unsuitable for first-time owners?,Chows are known for their loyalty and intuitive nature.,general
+Chow,valid/Chow/08.jpg,How does the Chow's temperament make it unique?,"Chows are generally energetic, which makes them adapt well to social settings.",temperament
+Chow,valid/Chow/09.jpg,What are the historical origins of the Chow breed?,Chows have a legacy of village protection dating back to ancient times.,history
+Chow,valid/Chow/10.jpg,How does the Chow's coat affect its care needs?,"This breed stands out due to its 22 inches, 80 lbs, and feathered coat.",appearance
+Clumber,valid/Clumber/01.jpg,What are the historical origins of the Clumber breed?,"Bred initially for herding flocks, the Clumber became valued for acute scent detection.",history
+Clumber,valid/Clumber/02.jpg,How does the Clumber's temperament make it unique?,"Clumbers are generally curious, which makes them prefer quiet environments.",temperament
+Clumber,valid/Clumber/03.jpg,What unique challenges come with training a Clumber?,This breed stands out due to its gentle disposition and tracking.,general
+Clumber,valid/Clumber/04.jpg,How does the Clumber's temperament make it unique?,"This breed exhibits a intelligent personality, thriving in urban apartments.",temperament
+Clumber,valid/Clumber/05.jpg,What makes a Clumber suitable for families?,This breed is a loyal but independent companion and thrives in quiet environments.,suitability
+Clumber,valid/Clumber/06.jpg,How does the Clumber interact with unfamiliar people and animals?,This breed stands out due to its keen senses and companionship.,general
+Clumber,valid/Clumber/07.jpg,What makes a Clumber suitable or unsuitable for first-time owners?,The Clumber is unique for its blend of agile and curious traits.,general
+Clumber,valid/Clumber/08.jpg,What makes a Clumber suitable or unsuitable for first-time owners?,This breed stands out due to its athletic prowess and companionship.,general
+Clumber,valid/Clumber/09.jpg,How much exercise does a Clumber need daily?,"To keep a Clumber in top shape, regular frequent vet visits is recommended.",care
+Clumber,valid/Clumber/10.jpg,What are the defining physical features of a Clumber?,Clumbers are known for their endurance and playful energy.,general
+Cockapoo,valid/Cockapoo/01.jpg,What are the defining physical features of a Cockapoo?,"A versatile breed, the Cockapoo combines adaptability with keen intelligence.",general
+Cockapoo,valid/Cockapoo/02.jpg,What are the most recognizable personality traits of a Cockapoo?,"Cockapoos are generally curious, which makes them adapt well to social settings.",temperament
+Cockapoo,valid/Cockapoo/03.jpg,How does the Cockapoo interact with unfamiliar people and animals?,The Cockapoo is unique for its blend of agile and curious traits.,general
+Cockapoo,valid/Cockapoo/04.jpg,How does the Cockapoo interact with unfamiliar people and animals?,"A versatile breed, the Cockapoo combines gentleness with keen intelligence.",general
+Cockapoo,valid/Cockapoo/05.jpg,How does the Cockapoo's coat affect its care needs?,"Cockapoos are recognized by their large, golden, and their curly tail.",appearance
+Cockapoo,valid/Cockapoo/06.jpg,How much exercise does a Cockapoo need daily?,Cockapoos need a balanced diet and consistent dental hygiene.,care
+Cockapoo,valid/Cockapoo/07.jpg,How does the Cockapoo interact with unfamiliar people and animals?,This breed stands out due to its gentle disposition and companionship.,general
+Cockapoo,valid/Cockapoo/08.jpg,How does a Cockapoo perform in dog sports or work roles?,The Cockapoo excels in hunting expertise and is known for intelligence.,performance
+Cockapoo,valid/Cockapoo/09.jpg,How does the Cockapoo interact with unfamiliar people and animals?,"A versatile breed, the Cockapoo combines gentleness with keen intelligence.",general
+Cockapoo,valid/Cockapoo/10.jpg,How does the Cockapoo interact with unfamiliar people and animals?,This breed stands out due to its keen senses and tracking.,general
+Cocker,valid/Cocker/01.jpg,How does the Cocker interact with unfamiliar people and animals?,"A versatile breed, the Cocker combines adaptability with strong instincts.",general
+Cocker,valid/Cocker/02.jpg,What are the most recognizable personality traits of a Cocker?,"This breed exhibits a intelligent personality, thriving in wide-open spaces.",temperament
+Cocker,valid/Cocker/03.jpg,How much exercise does a Cocker need daily?,Maintaining a Cocker involves light activity and occasional grooming.,care
+Cocker,valid/Cocker/04.jpg,How does the Cocker's temperament make it unique?,"Cockers are generally friendly, which makes them adapt well to social settings.",temperament
+Cocker,valid/Cocker/05.jpg,What makes a Cocker suitable for families?,"With its protective nature, the Cocker is suitable for large families.",suitability
+Cocker,valid/Cocker/06.jpg,How does the Cocker's coat affect its care needs?,"This breed stands out due to its 15 inches, 50 lbs, and feathered coat.",appearance
+Cocker,valid/Cocker/07.jpg,What makes a Cocker suitable or unsuitable for first-time owners?,"A versatile breed, the Cocker combines gentleness with keen intelligence.",general
+Cocker,valid/Cocker/08.jpg,What are the defining physical features of a Cocker?,The Cocker is unique for its blend of gentle yet alert traits.,general
+Cocker,valid/Cocker/09.jpg,How does the Cocker's coat affect its care needs?,"This breed stands out due to its 15 inches, 50 lbs, and broad chest.",appearance
+Cocker,valid/Cocker/10.jpg,What are the defining physical features of a Cocker?,The Cocker is unique for its blend of gentle yet alert traits.,general
+Collie,valid/Collie/01.jpg,What grooming requirements are specific to a Collie?,Collies are known for their intelligence and intuitive nature.,general
+Collie,valid/Collie/02.jpg,How does a Collie perform in dog sports or work roles?,"Historically, Collies have performed well in tracking trials.",performance
+Collie,valid/Collie/03.jpg,What unique challenges come with training a Collie?,Collies are known for their endurance and unwavering loyalty.,general
+Collie,valid/Collie/04.jpg,How does a Collie perform in dog sports or work roles?,"Historically, Collies have performed well in tracking trials.",performance
+Collie,valid/Collie/05.jpg,What are the most recognizable personality traits of a Collie?,"The Collie is known for its protective nature, making it better suited to experienced owners.",temperament
+Collie,valid/Collie/06.jpg,What makes a Collie suitable for families?,Collies are good with children with children and in rural homes.,suitability
+Collie,valid/Collie/07.jpg,How does the Collie interact with unfamiliar people and animals?,This breed stands out due to its keen senses and tracking.,general
+Collie,valid/Collie/08.jpg,What unique challenges come with training a Collie?,"A versatile breed, the Collie combines courage with strong instincts.",general
+Collie,valid/Collie/09.jpg,What grooming requirements are specific to a Collie?,The Collie is unique for its blend of agile and curious traits.,general
+Collie,valid/Collie/10.jpg,What makes a Collie suitable for families?,The Collie is highly suitable for family life due to its playful demeanor.,suitability
+Corgi,valid/Corgi/01.jpg,What makes a Corgi suitable or unsuitable for first-time owners?,This breed stands out due to its gentle disposition and companionship.,general
+Corgi,valid/Corgi/02.jpg,How does the Corgi interact with unfamiliar people and animals?,This breed stands out due to its gentle disposition and guarding.,general
+Corgi,valid/Corgi/03.jpg,What grooming requirements are specific to a Corgi?,The Corgi is unique for its blend of agile and curious traits.,general
+Corgi,valid/Corgi/04.jpg,How much exercise does a Corgi need daily?,Corgis need a specialized diet and consistent dental hygiene.,care
+Corgi,valid/Corgi/05.jpg,What unique challenges come with training a Corgi?,This breed stands out due to its keen senses and tracking.,general
+Corgi,valid/Corgi/06.jpg,What makes a Corgi suitable or unsuitable for first-time owners?,"A versatile breed, the Corgi combines gentleness with keen intelligence.",general
+Corgi,valid/Corgi/07.jpg,How does the Corgi interact with unfamiliar people and animals?,This breed stands out due to its athletic prowess and guarding.,general
+Corgi,valid/Corgi/08.jpg,What are the most recognizable personality traits of a Corgi?,"With a high-energy disposition, the Corgi fits well with families with children.",temperament
+Corgi,valid/Corgi/09.jpg,What are the most recognizable personality traits of a Corgi?,"The Corgi is known for its playful nature, making it better suited to experienced owners.",temperament
+Corgi,valid/Corgi/10.jpg,What are the historical origins of the Corgi breed?,Corgis have a legacy of royal service dating back to ancient times.,history
+Coyote,valid/Coyote/01.jpg,How much exercise does a Coyote need daily?,The Coyote requires intense activity and routine coat maintenance to stay healthy.,care
+Coyote,valid/Coyote/02.jpg,What grooming requirements are specific to a Coyote?,This breed stands out due to its keen senses and companionship.,general
+Coyote,valid/Coyote/03.jpg,What makes a Coyote suitable or unsuitable for first-time owners?,"A versatile breed, the Coyote combines gentleness with playful nature.",general
+Coyote,valid/Coyote/04.jpg,What are the defining physical features of a Coyote?,The Coyote is unique for its blend of gentle yet alert traits.,general
+Coyote,valid/Coyote/05.jpg,How does the Coyote interact with unfamiliar people and animals?,The Coyote is unique for its blend of athletic and loyal traits.,general
+Coyote,valid/Coyote/06.jpg,What are the historical origins of the Coyote breed?,"Bred initially for tracking prey, the Coyote became valued for agility.",history
+Coyote,valid/Coyote/07.jpg,What unique challenges come with training a Coyote?,Coyotes are known for their loyalty and playful energy.,general
+Coyote,valid/Coyote/08.jpg,How does the Coyote's temperament make it unique?,"The Coyote is known for its playful nature, making it better suited to experienced owners.",temperament
+Coyote,valid/Coyote/09.jpg,How does the Coyote interact with unfamiliar people and animals?,The Coyote is unique for its blend of agile and curious traits.,general
+Coyote,valid/Coyote/10.jpg,What unique challenges come with training a Coyote?,"A versatile breed, the Coyote combines courage with playful nature.",general
+Dalmation,valid/Dalmation/01.jpg,How does the Dalmation's temperament make it unique?,"The Dalmation is known for its protective nature, making it an excellent family pet.",temperament
+Dalmation,valid/Dalmation/02.jpg,What are the most recognizable personality traits of a Dalmation?,"The Dalmation is known for its playful nature, making it an excellent family pet.",temperament
+Dalmation,valid/Dalmation/03.jpg,What grooming requirements are specific to a Dalmation?,Dalmations are known for their endurance and playful energy.,general
+Dalmation,valid/Dalmation/04.jpg,What makes a Dalmation suitable or unsuitable for first-time owners?,The Dalmation is unique for its blend of athletic and loyal traits.,general
+Dalmation,valid/Dalmation/05.jpg,How does the Dalmation's coat affect its care needs?,A defining characteristic of the Dalmation is its short fur and striped coat.,appearance
+Dalmation,valid/Dalmation/06.jpg,How much exercise does a Dalmation need daily?,"To keep a Dalmation in top shape, regular frequent vet visits is recommended.",care
+Dalmation,valid/Dalmation/07.jpg,How much exercise does a Dalmation need daily?,Dalmations need a a protein-rich diet and consistent joint care.,care
+Dalmation,valid/Dalmation/08.jpg,How does the Dalmation's temperament make it unique?,"Dalmations are generally curious, which makes them adapt well to social settings.",temperament
+Dalmation,valid/Dalmation/09.jpg,How does the Dalmation's temperament make it unique?,"The Dalmation is known for its independent nature, making it better suited to experienced owners.",temperament
+Dalmation,valid/Dalmation/10.jpg,What grooming requirements are specific to a Dalmation?,This breed stands out due to its keen senses and tracking.,general
+Dhole,valid/Dhole/01.jpg,How does the Dhole's coat affect its care needs?,"Dholes are recognized by their giant, golden, and their floppy ears.",appearance
+Dhole,valid/Dhole/02.jpg,What grooming requirements are specific to a Dhole?,The Dhole is unique for its blend of agile and curious traits.,general
+Dhole,valid/Dhole/03.jpg,How much exercise does a Dhole need daily?,Maintaining a Dhole involves daily walks and regular brushing.,care
+Dhole,valid/Dhole/04.jpg,What are the historical origins of the Dhole breed?,"Bred initially for protecting estates, the Dhole became valued for agility.",history
+Dhole,valid/Dhole/05.jpg,How does the Dhole's temperament make it unique?,"With a balanced disposition, the Dhole fits well with experienced handlers.",temperament
+Dhole,valid/Dhole/06.jpg,What unique challenges come with training a Dhole?,The Dhole is unique for its blend of agile and curious traits.,general
+Dhole,valid/Dhole/07.jpg,What are the most recognizable personality traits of a Dhole?,"With a high-energy disposition, the Dhole fits well with experienced handlers.",temperament
+Dhole,valid/Dhole/08.jpg,What makes a Dhole suitable for families?,"With its protective nature, the Dhole is suitable for large families.",suitability
+Dhole,valid/Dhole/09.jpg,What are the most recognizable personality traits of a Dhole?,"With a balanced disposition, the Dhole fits well with experienced handlers.",temperament
+Dhole,valid/Dhole/10.jpg,How does a Dhole perform in dog sports or work roles?,This breed is valued for its stamina and police work.,performance
+Dingo,valid/Dingo/01.jpg,How does the Dingo interact with unfamiliar people and animals?,Dingos are known for their endurance and unwavering loyalty.,general
+Dingo,valid/Dingo/02.jpg,What are the historical origins of the Dingo breed?,"Historically, the Dingo was known for livestock guardian in the Far East.",history
+Dingo,valid/Dingo/03.jpg,How much exercise does a Dingo need daily?,The Dingo requires moderate activity and minimal grooming to stay healthy.,care
+Dingo,valid/Dingo/04.jpg,What unique challenges come with training a Dingo?,This breed stands out due to its athletic prowess and guarding.,general
+Dingo,valid/Dingo/05.jpg,How much exercise does a Dingo need daily?,"To keep a Dingo in top shape, regular tailored nutrition is recommended.",care
+Dingo,valid/Dingo/06.jpg,What are the defining physical features of a Dingo?,This breed stands out due to its athletic prowess and tracking.,general
+Dingo,valid/Dingo/07.jpg,What grooming requirements are specific to a Dingo?,Dingos are known for their loyalty and unwavering loyalty.,general
+Dingo,valid/Dingo/08.jpg,How does a Dingo perform in dog sports or work roles?,"Historically, Dingos have performed well in agility competitions.",performance
+Dingo,valid/Dingo/09.jpg,What makes a Dingo suitable or unsuitable for first-time owners?,The Dingo is unique for its blend of gentle yet alert traits.,general
+Dingo,valid/Dingo/10.jpg,How does the Dingo interact with unfamiliar people and animals?,"A versatile breed, the Dingo combines adaptability with playful nature.",general
+Doberman,valid/Doberman/01.jpg,What makes a Doberman suitable for families?,Dobermans are good with children with children and in rural homes.,suitability
+Doberman,valid/Doberman/02.jpg,How does the Doberman's coat affect its care needs?,"This breed stands out due to its 28 inches, 25 lbs, and sharp muzzle.",appearance
+Doberman,valid/Doberman/03.jpg,How much exercise does a Doberman need daily?,Maintaining a Doberman involves light activity and regular brushing.,care
+Doberman,valid/Doberman/04.jpg,How does a Doberman perform in dog sports or work roles?,"With its sprint speed, the Doberman is suited for hunting tasks.",performance
+Doberman,valid/Doberman/05.jpg,What are the historical origins of the Doberman breed?,The Doberman traces its origins to England where it was used for hunting.,history
+Doberman,valid/Doberman/06.jpg,What makes a Doberman suitable for families?,The Doberman is best for experienced owners for family life due to its gentle nature.,suitability
+Doberman,valid/Doberman/07.jpg,How does the Doberman's temperament make it unique?,"The Doberman is known for its playful nature, making it an excellent family pet.",temperament
+Doberman,valid/Doberman/08.jpg,What are the most recognizable personality traits of a Doberman?,"With a balanced disposition, the Doberman fits well with experienced handlers.",temperament
+Doberman,valid/Doberman/09.jpg,What are the historical origins of the Doberman breed?,"Bred initially for herding flocks, the Doberman became valued for strength and stamina.",history
+Doberman,valid/Doberman/10.jpg,How does the Doberman's coat affect its care needs?,A defining characteristic of the Doberman is its medium fur and white-tipped tail.,appearance
+Elk Hound,valid/Elk Hound/01.jpg,How much exercise does a Elk Hound need daily?,The Elk Hound requires moderate activity and regular trimming to stay healthy.,care
+Elk Hound,valid/Elk Hound/02.jpg,What are the historical origins of the Elk Hound breed?,"Bred initially for protecting estates, the Elk Hound became valued for acute scent detection.",history
+Elk Hound,valid/Elk Hound/03.jpg,What are the historical origins of the Elk Hound breed?,"Historically, the Elk Hound was known for hunting companion in rural America.",history
+Elk Hound,valid/Elk Hound/04.jpg,How does the Elk Hound's temperament make it unique?,"With a balanced disposition, the Elk Hound fits well with families with children.",temperament
+Elk Hound,valid/Elk Hound/05.jpg,How does the Elk Hound's temperament make it unique?,"The Elk Hound is known for its playful nature, making it better suited to experienced owners.",temperament
+Elk Hound,valid/Elk Hound/06.jpg,What are the most recognizable personality traits of a Elk Hound?,"With a balanced disposition, the Elk Hound fits well with experienced handlers.",temperament
+Elk Hound,valid/Elk Hound/07.jpg,How does the Elk Hound's coat affect its care needs?,"Elk Hounds are recognized by their large, chocolate, and their muscular frame.",appearance
+Elk Hound,valid/Elk Hound/08.jpg,How does the Elk Hound's coat affect its care needs?,"Elk Hounds are recognized by their giant, brindle, and their curly tail.",appearance
+Elk Hound,valid/Elk Hound/09.jpg,How does a Elk Hound perform in dog sports or work roles?,"Historically, Elk Hounds have performed well in agility competitions.",performance
+Elk Hound,valid/Elk Hound/10.jpg,What unique challenges come with training a Elk Hound?,The Elk Hound is unique for its blend of agile and curious traits.,general
+French Bulldog,valid/French Bulldog/01.jpg,What grooming requirements are specific to a French Bulldog?,"A versatile breed, the French Bulldog combines courage with strong instincts.",general
+French Bulldog,valid/French Bulldog/02.jpg,What grooming requirements are specific to a French Bulldog?,The French Bulldog is unique for its blend of athletic and loyal traits.,general
+French Bulldog,valid/French Bulldog/03.jpg,What grooming requirements are specific to a French Bulldog?,French Bulldogs are known for their intelligence and intuitive nature.,general
+French Bulldog,valid/French Bulldog/04.jpg,What are the defining physical features of a French Bulldog?,The French Bulldog is unique for its blend of gentle yet alert traits.,general
+French Bulldog,valid/French Bulldog/05.jpg,What makes a French Bulldog suitable or unsuitable for first-time owners?,This breed stands out due to its gentle disposition and tracking.,general
+French Bulldog,valid/French Bulldog/06.jpg,How does the French Bulldog interact with unfamiliar people and animals?,French Bulldogs are known for their loyalty and intuitive nature.,general
+French Bulldog,valid/French Bulldog/07.jpg,How much exercise does a French Bulldog need daily?,The French Bulldog requires moderate activity and regular trimming to stay healthy.,care
+French Bulldog,valid/French Bulldog/08.jpg,How does a French Bulldog perform in dog sports or work roles?,This breed is valued for its speed and search and rescue.,performance
+French Bulldog,valid/French Bulldog/09.jpg,What makes a French Bulldog suitable for families?,This breed is an ideal family pet and thrives in active households.,suitability
+French Bulldog,valid/French Bulldog/10.jpg,How does the French Bulldog's coat affect its care needs?,"The French Bulldog is famous for its silky coat, which is intensive care.",appearance
+German Sheperd,valid/German Sheperd/01.jpg,How does the German Sheperd interact with unfamiliar people and animals?,The German Sheperd is unique for its blend of gentle yet alert traits.,general
+German Sheperd,valid/German Sheperd/02.jpg,How does the German Sheperd interact with unfamiliar people and animals?,This breed stands out due to its athletic prowess and guarding.,general
+German Sheperd,valid/German Sheperd/03.jpg,What makes a German Sheperd suitable or unsuitable for first-time owners?,This breed stands out due to its keen senses and tracking.,general
+German Sheperd,valid/German Sheperd/04.jpg,What unique challenges come with training a German Sheperd?,"A versatile breed, the German Sheperd combines adaptability with playful nature.",general
+German Sheperd,valid/German Sheperd/05.jpg,What are the defining physical features of a German Sheperd?,German Sheperds are known for their endurance and playful energy.,general
+German Sheperd,valid/German Sheperd/06.jpg,What grooming requirements are specific to a German Sheperd?,German Sheperds are known for their loyalty and intuitive nature.,general
+German Sheperd,valid/German Sheperd/07.jpg,What grooming requirements are specific to a German Sheperd?,The German Sheperd is unique for its blend of agile and curious traits.,general
+German Sheperd,valid/German Sheperd/08.jpg,What unique challenges come with training a German Sheperd?,The German Sheperd is unique for its blend of gentle yet alert traits.,general
+German Sheperd,valid/German Sheperd/09.jpg,What are the historical origins of the German Sheperd breed?,German Sheperds have a legacy of royal service dating back to the 19th century.,history
+German Sheperd,valid/German Sheperd/10.jpg,What grooming requirements are specific to a German Sheperd?,German Sheperds are known for their intelligence and intuitive nature.,general
+Golden Retriever,valid/Golden Retriever/01.jpg,How much exercise does a Golden Retriever need daily?,Maintaining a Golden Retriever involves light activity and regular brushing.,care
+Golden Retriever,valid/Golden Retriever/02.jpg,What grooming requirements are specific to a Golden Retriever?,This breed stands out due to its gentle disposition and tracking.,general
+Golden Retriever,valid/Golden Retriever/03.jpg,How much exercise does a Golden Retriever need daily?,Maintaining a Golden Retriever involves daily walks and occasional grooming.,care
+Golden Retriever,valid/Golden Retriever/04.jpg,How does the Golden Retriever's coat affect its care needs?,"Golden Retrievers are recognized by their giant, black and tan, and their muscular frame.",appearance
+Golden Retriever,valid/Golden Retriever/05.jpg,What grooming requirements are specific to a Golden Retriever?,This breed stands out due to its athletic prowess and companionship.,general
+Golden Retriever,valid/Golden Retriever/06.jpg,How much exercise does a Golden Retriever need daily?,"To keep a Golden Retriever in top shape, regular a mix of exercise and grooming is recommended.",care
+Golden Retriever,valid/Golden Retriever/07.jpg,What makes a Golden Retriever suitable for families?,Golden Retrievers are sensitive to strangers with children and in rural homes.,suitability
+Golden Retriever,valid/Golden Retriever/08.jpg,What are the defining physical features of a Golden Retriever?,"A versatile breed, the Golden Retriever combines courage with strong instincts.",general
+Golden Retriever,valid/Golden Retriever/09.jpg,What grooming requirements are specific to a Golden Retriever?,"A versatile breed, the Golden Retriever combines adaptability with keen intelligence.",general
+Golden Retriever,valid/Golden Retriever/10.jpg,What are the most recognizable personality traits of a Golden Retriever?,"This breed exhibits a stubborn personality, thriving in wide-open spaces.",temperament
+Great Dane,valid/Great Dane/01.jpg,What grooming requirements are specific to a Great Dane?,The Great Dane is unique for its blend of agile and curious traits.,general
+Great Dane,valid/Great Dane/02.jpg,What grooming requirements are specific to a Great Dane?,This breed stands out due to its keen senses and tracking.,general
+Great Dane,valid/Great Dane/03.jpg,How does the Great Dane's coat affect its care needs?,"The Great Dane is famous for its silky coat, which is moderate grooming needs.",appearance
+Great Dane,valid/Great Dane/04.jpg,What grooming requirements are specific to a Great Dane?,This breed stands out due to its athletic prowess and companionship.,general
+Great Dane,valid/Great Dane/05.jpg,What are the historical origins of the Great Dane breed?,"Historically, the Great Dane was known for palace guard in the Far East.",history
+Great Dane,valid/Great Dane/06.jpg,How does the Great Dane's coat affect its care needs?,"This breed stands out due to its 28 inches, 80 lbs, and broad chest.",appearance
+Great Dane,valid/Great Dane/07.jpg,What grooming requirements are specific to a Great Dane?,Great Danes are known for their intelligence and intuitive nature.,general
+Great Dane,valid/Great Dane/08.jpg,What grooming requirements are specific to a Great Dane?,Great Danes are known for their loyalty and intuitive nature.,general
+Great Dane,valid/Great Dane/09.jpg,What grooming requirements are specific to a Great Dane?,This breed stands out due to its gentle disposition and tracking.,general
+Great Dane,valid/Great Dane/10.jpg,What makes a Great Dane suitable or unsuitable for first-time owners?,The Great Dane is unique for its blend of gentle yet alert traits.,general
+Great Perenees,valid/Great Perenees/01.jpg,How does the Great Perenees interact with unfamiliar people and animals?,The Great Perenees is unique for its blend of gentle yet alert traits.,general
+Great Perenees,valid/Great Perenees/02.jpg,How does a Great Perenees perform in dog sports or work roles?,"With its stamina, the Great Perenees is suited for guarding duties.",performance
+Great Perenees,valid/Great Perenees/03.jpg,How much exercise does a Great Perenees need daily?,The Great Perenees requires intense activity and regular trimming to stay healthy.,care
+Great Perenees,valid/Great Perenees/04.jpg,What are the defining physical features of a Great Perenees?,This breed stands out due to its keen senses and tracking.,general
+Great Perenees,valid/Great Perenees/05.jpg,How much exercise does a Great Perenees need daily?,The Great Perenees requires intense activity and regular trimming to stay healthy.,care
+Great Perenees,valid/Great Perenees/06.jpg,How does a Great Perenees perform in dog sports or work roles?,"With its stamina, the Great Perenees is suited for companion work.",performance
+Great Perenees,valid/Great Perenees/07.jpg,What are the historical origins of the Great Perenees breed?,Great Pereneess have a legacy of family companionship dating back to ancient times.,history
+Great Perenees,valid/Great Perenees/08.jpg,What are the historical origins of the Great Perenees breed?,The Great Perenees traces its origins to United States where it was used for hunting.,history
+Great Perenees,valid/Great Perenees/09.jpg,What grooming requirements are specific to a Great Perenees?,This breed stands out due to its gentle disposition and guarding.,general
+Great Perenees,valid/Great Perenees/10.jpg,How does the Great Perenees's temperament make it unique?,"This breed exhibits a intelligent personality, thriving in wide-open spaces.",temperament
+Greyhound,valid/Greyhound/01.jpg,What are the historical origins of the Greyhound breed?,Greyhounds have a legacy of village protection dating back to ancient times.,history
+Greyhound,valid/Greyhound/02.jpg,How does the Greyhound interact with unfamiliar people and animals?,This breed stands out due to its athletic prowess and companionship.,general
+Greyhound,valid/Greyhound/03.jpg,How does the Greyhound interact with unfamiliar people and animals?,The Greyhound is unique for its blend of agile and curious traits.,general
+Greyhound,valid/Greyhound/04.jpg,How does the Greyhound's temperament make it unique?,"The Greyhound is known for its gentle nature, making it better suited to experienced owners.",temperament
+Greyhound,valid/Greyhound/05.jpg,How much exercise does a Greyhound need daily?,"To keep a Greyhound in top shape, regular frequent vet visits is recommended.",care
+Greyhound,valid/Greyhound/06.jpg,How does a Greyhound perform in dog sports or work roles?,This breed is valued for its stamina and police work.,performance
+Greyhound,valid/Greyhound/07.jpg,How does a Greyhound perform in dog sports or work roles?,The Greyhound excels in hunting expertise and is known for endurance.,performance
+Greyhound,valid/Greyhound/08.jpg,How much exercise does a Greyhound need daily?,Maintaining a Greyhound involves frequent exercise sessions and occasional grooming.,care
+Greyhound,valid/Greyhound/09.jpg,What makes a Greyhound suitable for families?,"With its calm demeanor, the Greyhound is better for solo owners.",suitability
+Greyhound,valid/Greyhound/10.jpg,What are the most recognizable personality traits of a Greyhound?,"The Greyhound is known for its playful nature, making it better suited to experienced owners.",temperament
+Groenendael,valid/Groenendael/01.jpg,How does the Groenendael's temperament make it unique?,"The Groenendael is known for its playful nature, making it an excellent family pet.",temperament
+Groenendael,valid/Groenendael/02.jpg,How does the Groenendael's temperament make it unique?,"With a balanced disposition, the Groenendael fits well with families with children.",temperament
+Groenendael,valid/Groenendael/03.jpg,How does the Groenendael's temperament make it unique?,"Groenendaels are generally energetic, which makes them prefer quiet environments.",temperament
+Groenendael,valid/Groenendael/04.jpg,How much exercise does a Groenendael need daily?,Groenendaels need a a protein-rich diet and consistent joint care.,care
+Groenendael,valid/Groenendael/05.jpg,What makes a Groenendael suitable for families?,The Groenendael is moderately compatible for family life due to its protective instincts.,suitability
+Groenendael,valid/Groenendael/06.jpg,What are the most recognizable personality traits of a Groenendael?,"Groenendaels are generally energetic, which makes them adapt well to social settings.",temperament
+Groenendael,valid/Groenendael/07.jpg,How much exercise does a Groenendael need daily?,Groenendaels need a a protein-rich diet and consistent joint care.,care
+Groenendael,valid/Groenendael/08.jpg,What are the defining physical features of a Groenendael?,The Groenendael is unique for its blend of gentle yet alert traits.,general
+Groenendael,valid/Groenendael/09.jpg,What unique challenges come with training a Groenendael?,The Groenendael is unique for its blend of athletic and loyal traits.,general
+Groenendael,valid/Groenendael/10.jpg,What are the most recognizable personality traits of a Groenendael?,"The Groenendael is known for its independent nature, making it an excellent family pet.",temperament
+Irish Spaniel,valid/Irish Spaniel/01.jpg,How does the Irish Spaniel's coat affect its care needs?,"Irish Spaniels are recognized by their giant, golden, and their muscular frame.",appearance
+Irish Spaniel,valid/Irish Spaniel/02.jpg,How does the Irish Spaniel's coat affect its care needs?,"Irish Spaniels are recognized by their giant, golden, and their curly tail.",appearance
+Irish Spaniel,valid/Irish Spaniel/03.jpg,How does the Irish Spaniel's temperament make it unique?,"This breed exhibits a stubborn personality, thriving in urban apartments.",temperament
+Irish Spaniel,valid/Irish Spaniel/04.jpg,How does a Irish Spaniel perform in dog sports or work roles?,"Historically, Irish Spaniels have performed well in obedience sports.",performance
+Irish Spaniel,valid/Irish Spaniel/05.jpg,How does the Irish Spaniel interact with unfamiliar people and animals?,This breed stands out due to its gentle disposition and tracking.,general
+Irish Spaniel,valid/Irish Spaniel/06.jpg,What are the defining physical features of a Irish Spaniel?,Irish Spaniels are known for their intelligence and intuitive nature.,general
+Irish Spaniel,valid/Irish Spaniel/07.jpg,How does the Irish Spaniel's coat affect its care needs?,"This breed stands out due to its 15 inches, 50 lbs, and broad chest.",appearance
+Irish Spaniel,valid/Irish Spaniel/08.jpg,How does the Irish Spaniel interact with unfamiliar people and animals?,"A versatile breed, the Irish Spaniel combines adaptability with playful nature.",general
+Irish Spaniel,valid/Irish Spaniel/09.jpg,What are the most recognizable personality traits of a Irish Spaniel?,"Irish Spaniels are generally energetic, which makes them adapt well to social settings.",temperament
+Irish Spaniel,valid/Irish Spaniel/10.jpg,What unique challenges come with training a Irish Spaniel?,The Irish Spaniel is unique for its blend of athletic and loyal traits.,general
+Irish Wolfhound,valid/Irish Wolfhound/01.jpg,How much exercise does a Irish Wolfhound need daily?,"To keep a Irish Wolfhound in top shape, regular tailored nutrition is recommended.",care
+Irish Wolfhound,valid/Irish Wolfhound/02.jpg,What are the defining physical features of a Irish Wolfhound?,The Irish Wolfhound is unique for its blend of agile and curious traits.,general
+Irish Wolfhound,valid/Irish Wolfhound/03.jpg,What are the defining physical features of a Irish Wolfhound?,Irish Wolfhounds are known for their endurance and unwavering loyalty.,general
+Irish Wolfhound,valid/Irish Wolfhound/04.jpg,How does the Irish Wolfhound interact with unfamiliar people and animals?,"A versatile breed, the Irish Wolfhound combines adaptability with keen intelligence.",general
+Irish Wolfhound,valid/Irish Wolfhound/05.jpg,What makes a Irish Wolfhound suitable or unsuitable for first-time owners?,"A versatile breed, the Irish Wolfhound combines adaptability with playful nature.",general
+Irish Wolfhound,valid/Irish Wolfhound/06.jpg,How does the Irish Wolfhound interact with unfamiliar people and animals?,Irish Wolfhounds are known for their endurance and intuitive nature.,general
+Irish Wolfhound,valid/Irish Wolfhound/07.jpg,How does the Irish Wolfhound's coat affect its care needs?,A defining characteristic of the Irish Wolfhound is its short fur and striped coat.,appearance
+Irish Wolfhound,valid/Irish Wolfhound/08.jpg,How does the Irish Wolfhound's temperament make it unique?,"With a balanced disposition, the Irish Wolfhound fits well with experienced handlers.",temperament
+Irish Wolfhound,valid/Irish Wolfhound/09.jpg,What are the most recognizable personality traits of a Irish Wolfhound?,"Irish Wolfhounds are generally friendly, which makes them prefer quiet environments.",temperament
+Irish Wolfhound,valid/Irish Wolfhound/10.jpg,What are the historical origins of the Irish Wolfhound breed?,The Irish Wolfhound traces its origins to Japan where it was used for herding livestock.,history
+Japanese Spaniel,valid/Japanese Spaniel/01.jpg,What makes a Japanese Spaniel suitable for families?,"With its calm demeanor, the Japanese Spaniel is suitable for large families.",suitability
+Japanese Spaniel,valid/Japanese Spaniel/02.jpg,What unique challenges come with training a Japanese Spaniel?,Japanese Spaniels are known for their intelligence and unwavering loyalty.,general
+Japanese Spaniel,valid/Japanese Spaniel/03.jpg,How much exercise does a Japanese Spaniel need daily?,Japanese Spaniels need a balanced diet and consistent regular check-ups.,care
+Japanese Spaniel,valid/Japanese Spaniel/04.jpg,What are the most recognizable personality traits of a Japanese Spaniel?,"This breed exhibits a stubborn personality, thriving in suburban homes.",temperament
+Japanese Spaniel,valid/Japanese Spaniel/05.jpg,What unique challenges come with training a Japanese Spaniel?,Japanese Spaniels are known for their endurance and unwavering loyalty.,general
+Japanese Spaniel,valid/Japanese Spaniel/06.jpg,What unique challenges come with training a Japanese Spaniel?,Japanese Spaniels are known for their intelligence and unwavering loyalty.,general
+Japanese Spaniel,valid/Japanese Spaniel/07.jpg,How much exercise does a Japanese Spaniel need daily?,Maintaining a Japanese Spaniel involves daily walks and regular brushing.,care
+Japanese Spaniel,valid/Japanese Spaniel/08.jpg,What are the most recognizable personality traits of a Japanese Spaniel?,"With a high-energy disposition, the Japanese Spaniel fits well with families with children.",temperament
+Japanese Spaniel,valid/Japanese Spaniel/09.jpg,What are the most recognizable personality traits of a Japanese Spaniel?,"With a calm and patient disposition, the Japanese Spaniel fits well with families with children.",temperament
+Japanese Spaniel,valid/Japanese Spaniel/10.jpg,What unique challenges come with training a Japanese Spaniel?,"A versatile breed, the Japanese Spaniel combines courage with playful nature.",general
+Komondor,valid/Komondor/01.jpg,What makes a Komondor suitable for families?,Komondors are best with older kids with children and in rural homes.,suitability
+Komondor,valid/Komondor/02.jpg,How does the Komondor's coat affect its care needs?,"The Komondor is famous for its dense coat, which is intensive care.",appearance
+Komondor,valid/Komondor/03.jpg,What are the defining physical features of a Komondor?,"A versatile breed, the Komondor combines courage with keen intelligence.",general
+Komondor,valid/Komondor/04.jpg,What are the most recognizable personality traits of a Komondor?,"Komondors are generally curious, which makes them prefer quiet environments.",temperament
+Komondor,valid/Komondor/05.jpg,How does a Komondor perform in dog sports or work roles?,The Komondor excels in hunting expertise and is known for endurance.,performance
+Komondor,valid/Komondor/06.jpg,What are the defining physical features of a Komondor?,This breed stands out due to its gentle disposition and guarding.,general
+Komondor,valid/Komondor/07.jpg,What unique challenges come with training a Komondor?,Komondors are known for their intelligence and playful energy.,general
+Komondor,valid/Komondor/08.jpg,How does the Komondor's temperament make it unique?,"This breed exhibits a stubborn personality, thriving in suburban homes.",temperament
+Komondor,valid/Komondor/09.jpg,What unique challenges come with training a Komondor?,This breed stands out due to its keen senses and guarding.,general
+Komondor,valid/Komondor/10.jpg,What grooming requirements are specific to a Komondor?,This breed stands out due to its gentle disposition and guarding.,general
+Labradoodle,valid/Labradoodle/01.jpg,How does the Labradoodle interact with unfamiliar people and animals?,Labradoodles are known for their endurance and intuitive nature.,general
+Labradoodle,valid/Labradoodle/02.jpg,What makes a Labradoodle suitable for families?,"With its protective nature, the Labradoodle is suitable for large families.",suitability
+Labradoodle,valid/Labradoodle/03.jpg,How does the Labradoodle interact with unfamiliar people and animals?,The Labradoodle is unique for its blend of gentle yet alert traits.,general
+Labradoodle,valid/Labradoodle/04.jpg,What are the most recognizable personality traits of a Labradoodle?,"Labradoodles are generally reserved, which makes them adapt well to social settings.",temperament
+Labradoodle,valid/Labradoodle/05.jpg,What makes a Labradoodle suitable for families?,The Labradoodle is best for experienced owners for family life due to its gentle nature.,suitability
+Labradoodle,valid/Labradoodle/06.jpg,How much exercise does a Labradoodle need daily?,Maintaining a Labradoodle involves frequent exercise sessions and occasional grooming.,care
+Labradoodle,valid/Labradoodle/07.jpg,What makes a Labradoodle suitable for families?,"With its protective nature, the Labradoodle is better for solo owners.",suitability
+Labradoodle,valid/Labradoodle/08.jpg,How does the Labradoodle's coat affect its care needs?,"Labradoodles are recognized by their medium, black and tan, and their muscular frame.",appearance
+Labradoodle,valid/Labradoodle/09.jpg,How does the Labradoodle interact with unfamiliar people and animals?,This breed stands out due to its keen senses and companionship.,general
+Labradoodle,valid/Labradoodle/10.jpg,How does the Labradoodle's coat affect its care needs?,"Labradoodles are recognized by their medium, black and tan, and their muscular frame.",appearance
+Labrador,valid/Labrador/01.jpg,What unique challenges come with training a Labrador?,This breed stands out due to its keen senses and companionship.,general
+Labrador,valid/Labrador/02.jpg,How does a Labrador perform in dog sports or work roles?,The Labrador excels in guarding instincts and is known for endurance.,performance
+Labrador,valid/Labrador/03.jpg,How does the Labrador's temperament make it unique?,"Labradors are generally curious, which makes them prefer quiet environments.",temperament
+Labrador,valid/Labrador/04.jpg,What grooming requirements are specific to a Labrador?,"A versatile breed, the Labrador combines courage with strong instincts.",general
+Labrador,valid/Labrador/05.jpg,How much exercise does a Labrador need daily?,Maintaining a Labrador involves frequent exercise sessions and frequent coat care.,care
+Labrador,valid/Labrador/06.jpg,What are the defining physical features of a Labrador?,The Labrador is unique for its blend of agile and curious traits.,general
+Labrador,valid/Labrador/07.jpg,How much exercise does a Labrador need daily?,Labradors need a balanced diet and consistent joint care.,care
+Labrador,valid/Labrador/08.jpg,What makes a Labrador suitable for families?,Labradors are good with children with children and in spacious homes.,suitability
+Labrador,valid/Labrador/09.jpg,What are the historical origins of the Labrador breed?,The Labrador traces its origins to Germany where it was used for hunting.,history
+Labrador,valid/Labrador/10.jpg,How does a Labrador perform in dog sports or work roles?,This breed is valued for its speed and therapy assistance.,performance
+Lhasa,valid/Lhasa/01.jpg,How does the Lhasa interact with unfamiliar people and animals?,This breed stands out due to its athletic prowess and guarding.,general
+Lhasa,valid/Lhasa/02.jpg,What makes a Lhasa suitable or unsuitable for first-time owners?,Lhasas are known for their endurance and intuitive nature.,general
+Lhasa,valid/Lhasa/03.jpg,How much exercise does a Lhasa need daily?,"To keep a Lhasa in top shape, regular frequent vet visits is recommended.",care
+Lhasa,valid/Lhasa/04.jpg,What makes a Lhasa suitable or unsuitable for first-time owners?,This breed stands out due to its athletic prowess and tracking.,general
+Lhasa,valid/Lhasa/05.jpg,What grooming requirements are specific to a Lhasa?,"A versatile breed, the Lhasa combines gentleness with keen intelligence.",general
+Lhasa,valid/Lhasa/06.jpg,What are the historical origins of the Lhasa breed?,"Bred initially for tracking prey, the Lhasa became valued for acute scent detection.",history
+Lhasa,valid/Lhasa/07.jpg,How does a Lhasa perform in dog sports or work roles?,This breed is valued for its stamina and police work.,performance
+Lhasa,valid/Lhasa/08.jpg,What are the most recognizable personality traits of a Lhasa?,"Lhasas are generally friendly, which makes them adapt well to social settings.",temperament
+Lhasa,valid/Lhasa/09.jpg,How does the Lhasa interact with unfamiliar people and animals?,"A versatile breed, the Lhasa combines gentleness with strong instincts.",general
+Lhasa,valid/Lhasa/10.jpg,How much exercise does a Lhasa need daily?,The Lhasa requires light activity and regular trimming to stay healthy.,care
+Malinois,valid/Malinois/01.jpg,What are the most recognizable personality traits of a Malinois?,"This breed exhibits a loyal personality, thriving in suburban homes.",temperament
+Malinois,valid/Malinois/02.jpg,What grooming requirements are specific to a Malinois?,The Malinois is unique for its blend of gentle yet alert traits.,general
+Malinois,valid/Malinois/03.jpg,How much exercise does a Malinois need daily?,The Malinois requires light activity and minimal grooming to stay healthy.,care
+Malinois,valid/Malinois/04.jpg,What are the defining physical features of a Malinois?,Malinoiss are known for their intelligence and playful energy.,general
+Malinois,valid/Malinois/05.jpg,How does the Malinois's temperament make it unique?,"Malinoiss are generally friendly, which makes them adapt well to social settings.",temperament
+Malinois,valid/Malinois/06.jpg,How does a Malinois perform in dog sports or work roles?,"Historically, Malinoiss have performed well in tracking trials.",performance
+Malinois,valid/Malinois/07.jpg,What unique challenges come with training a Malinois?,This breed stands out due to its gentle disposition and tracking.,general
+Malinois,valid/Malinois/08.jpg,How much exercise does a Malinois need daily?,Maintaining a Malinois involves frequent exercise sessions and frequent coat care.,care
+Malinois,valid/Malinois/09.jpg,How much exercise does a Malinois need daily?,"To keep a Malinois in top shape, regular a mix of exercise and grooming is recommended.",care
+Malinois,valid/Malinois/10.jpg,How does the Malinois interact with unfamiliar people and animals?,Malinoiss are known for their loyalty and intuitive nature.,general
+Maltese,valid/Maltese/01.jpg,What grooming requirements are specific to a Maltese?,Malteses are known for their loyalty and unwavering loyalty.,general
+Maltese,valid/Maltese/02.jpg,What are the defining physical features of a Maltese?,Malteses are known for their loyalty and playful energy.,general
+Maltese,valid/Maltese/03.jpg,How does the Maltese interact with unfamiliar people and animals?,"A versatile breed, the Maltese combines adaptability with keen intelligence.",general
+Maltese,valid/Maltese/04.jpg,What grooming requirements are specific to a Maltese?,The Maltese is unique for its blend of agile and curious traits.,general
+Maltese,valid/Maltese/05.jpg,What makes a Maltese suitable or unsuitable for first-time owners?,This breed stands out due to its athletic prowess and guarding.,general
+Maltese,valid/Maltese/06.jpg,How does the Maltese's temperament make it unique?,"The Maltese is known for its protective nature, making it an excellent family pet.",temperament
+Maltese,valid/Maltese/07.jpg,What grooming requirements are specific to a Maltese?,"A versatile breed, the Maltese combines adaptability with keen intelligence.",general
+Maltese,valid/Maltese/08.jpg,What are the most recognizable personality traits of a Maltese?,"This breed exhibits a affectionate personality, thriving in urban apartments.",temperament
+Maltese,valid/Maltese/09.jpg,What are the historical origins of the Maltese breed?,The Maltese traces its origins to Germany where it was used for guarding.,history
+Maltese,valid/Maltese/10.jpg,How does the Maltese's coat affect its care needs?,"The Maltese is famous for its curly coat, which is low maintenance.",appearance
+Mex Hairless,valid/Mex Hairless/01.jpg,How much exercise does a Mex Hairless need daily?,"To keep a Mex Hairless in top shape, regular a mix of exercise and grooming is recommended.",care
+Mex Hairless,valid/Mex Hairless/02.jpg,What are the historical origins of the Mex Hairless breed?,"Historically, the Mex Hairless was known for livestock guardian in rural America.",history
+Mex Hairless,valid/Mex Hairless/03.jpg,What grooming requirements are specific to a Mex Hairless?,"A versatile breed, the Mex Hairless combines adaptability with strong instincts.",general
+Mex Hairless,valid/Mex Hairless/04.jpg,How does the Mex Hairless's temperament make it unique?,"This breed exhibits a affectionate personality, thriving in urban apartments.",temperament
+Mex Hairless,valid/Mex Hairless/05.jpg,What are the defining physical features of a Mex Hairless?,"A versatile breed, the Mex Hairless combines gentleness with playful nature.",general
+Mex Hairless,valid/Mex Hairless/06.jpg,What makes a Mex Hairless suitable or unsuitable for first-time owners?,This breed stands out due to its gentle disposition and tracking.,general
+Mex Hairless,valid/Mex Hairless/07.jpg,How does the Mex Hairless's temperament make it unique?,"This breed exhibits a affectionate personality, thriving in suburban homes.",temperament
+Mex Hairless,valid/Mex Hairless/08.jpg,What are the defining physical features of a Mex Hairless?,"A versatile breed, the Mex Hairless combines adaptability with playful nature.",general
+Mex Hairless,valid/Mex Hairless/09.jpg,What are the historical origins of the Mex Hairless breed?,"Historically, the Mex Hairless was known for livestock guardian in central Europe.",history
+Mex Hairless,valid/Mex Hairless/10.jpg,What are the defining physical features of a Mex Hairless?,Mex Hairlesss are known for their endurance and intuitive nature.,general
+Newfoundland,valid/Newfoundland/01.jpg,How does the Newfoundland's coat affect its care needs?,"This breed stands out due to its 22 inches, 80 lbs, and sharp muzzle.",appearance
+Newfoundland,valid/Newfoundland/02.jpg,How much exercise does a Newfoundland need daily?,Maintaining a Newfoundland involves frequent exercise sessions and occasional grooming.,care
+Newfoundland,valid/Newfoundland/03.jpg,How does the Newfoundland's temperament make it unique?,"This breed exhibits a stubborn personality, thriving in suburban homes.",temperament
+Newfoundland,valid/Newfoundland/04.jpg,What are the defining physical features of a Newfoundland?,Newfoundlands are known for their intelligence and unwavering loyalty.,general
+Newfoundland,valid/Newfoundland/05.jpg,What are the historical origins of the Newfoundland breed?,"Bred initially for herding flocks, the Newfoundland became valued for agility.",history
+Newfoundland,valid/Newfoundland/06.jpg,What makes a Newfoundland suitable for families?,Newfoundlands are best with older kids with children and in city apartments.,suitability
+Newfoundland,valid/Newfoundland/07.jpg,What grooming requirements are specific to a Newfoundland?,The Newfoundland is unique for its blend of athletic and loyal traits.,general
+Newfoundland,valid/Newfoundland/08.jpg,What grooming requirements are specific to a Newfoundland?,The Newfoundland is unique for its blend of agile and curious traits.,general
+Newfoundland,valid/Newfoundland/09.jpg,How much exercise does a Newfoundland need daily?,The Newfoundland requires moderate activity and regular trimming to stay healthy.,care
+Newfoundland,valid/Newfoundland/10.jpg,How does the Newfoundland interact with unfamiliar people and animals?,This breed stands out due to its keen senses and guarding.,general
+Pekinese,valid/Pekinese/01.jpg,What are the historical origins of the Pekinese breed?,"Bred initially for herding flocks, the Pekinese became valued for agility.",history
+Pekinese,valid/Pekinese/02.jpg,What grooming requirements are specific to a Pekinese?,The Pekinese is unique for its blend of athletic and loyal traits.,general
+Pekinese,valid/Pekinese/03.jpg,What unique challenges come with training a Pekinese?,The Pekinese is unique for its blend of agile and curious traits.,general
+Pekinese,valid/Pekinese/04.jpg,How much exercise does a Pekinese need daily?,"To keep a Pekinese in top shape, regular a mix of exercise and grooming is recommended.",care
+Pekinese,valid/Pekinese/05.jpg,What are the defining physical features of a Pekinese?,Pekineses are known for their intelligence and unwavering loyalty.,general
+Pekinese,valid/Pekinese/06.jpg,What makes a Pekinese suitable for families?,"With its protective nature, the Pekinese is better for solo owners.",suitability
+Pekinese,valid/Pekinese/07.jpg,How much exercise does a Pekinese need daily?,Maintaining a Pekinese involves daily walks and regular brushing.,care
+Pekinese,valid/Pekinese/08.jpg,What are the defining physical features of a Pekinese?,This breed stands out due to its gentle disposition and tracking.,general
+Pekinese,valid/Pekinese/09.jpg,How does the Pekinese's temperament make it unique?,"The Pekinese is known for its playful nature, making it better suited to experienced owners.",temperament
+Pekinese,valid/Pekinese/10.jpg,How much exercise does a Pekinese need daily?,The Pekinese requires intense activity and routine coat maintenance to stay healthy.,care
+Pit Bull,valid/Pit Bull/01.jpg,What are the defining physical features of a Pit Bull?,"A versatile breed, the Pit Bull combines adaptability with strong instincts.",general
+Pit Bull,valid/Pit Bull/02.jpg,What unique challenges come with training a Pit Bull?,"A versatile breed, the Pit Bull combines adaptability with keen intelligence.",general
+Pit Bull,valid/Pit Bull/03.jpg,What are the defining physical features of a Pit Bull?,The Pit Bull is unique for its blend of gentle yet alert traits.,general
+Pit Bull,valid/Pit Bull/04.jpg,How does the Pit Bull interact with unfamiliar people and animals?,"A versatile breed, the Pit Bull combines adaptability with playful nature.",general
+Pit Bull,valid/Pit Bull/05.jpg,What makes a Pit Bull suitable for families?,This breed is an ideal family pet and thrives in quiet environments.,suitability
+Pit Bull,valid/Pit Bull/06.jpg,How does the Pit Bull's temperament make it unique?,"With a balanced disposition, the Pit Bull fits well with active owners.",temperament
+Pit Bull,valid/Pit Bull/07.jpg,How does the Pit Bull's coat affect its care needs?,A defining characteristic of the Pit Bull is its long fur and white-tipped tail.,appearance
+Pit Bull,valid/Pit Bull/08.jpg,What grooming requirements are specific to a Pit Bull?,This breed stands out due to its gentle disposition and guarding.,general
+Pit Bull,valid/Pit Bull/09.jpg,How much exercise does a Pit Bull need daily?,The Pit Bull requires moderate activity and regular trimming to stay healthy.,care
+Pit Bull,valid/Pit Bull/10.jpg,How does the Pit Bull's temperament make it unique?,"This breed exhibits a stubborn personality, thriving in suburban homes.",temperament
+Pomeranian,valid/Pomeranian/01.jpg,What grooming requirements are specific to a Pomeranian?,The Pomeranian is unique for its blend of athletic and loyal traits.,general
+Pomeranian,valid/Pomeranian/02.jpg,What unique challenges come with training a Pomeranian?,The Pomeranian is unique for its blend of athletic and loyal traits.,general
+Pomeranian,valid/Pomeranian/03.jpg,How much exercise does a Pomeranian need daily?,The Pomeranian requires intense activity and regular trimming to stay healthy.,care
+Pomeranian,valid/Pomeranian/04.jpg,How does the Pomeranian's temperament make it unique?,"This breed exhibits a affectionate personality, thriving in wide-open spaces.",temperament
+Pomeranian,valid/Pomeranian/05.jpg,How much exercise does a Pomeranian need daily?,The Pomeranian requires intense activity and regular trimming to stay healthy.,care
+Pomeranian,valid/Pomeranian/06.jpg,What makes a Pomeranian suitable or unsuitable for first-time owners?,Pomeranians are known for their endurance and playful energy.,general
+Pomeranian,valid/Pomeranian/07.jpg,What are the historical origins of the Pomeranian breed?,"Historically, the Pomeranian was known for palace guard in rural America.",history
+Pomeranian,valid/Pomeranian/08.jpg,What makes a Pomeranian suitable for families?,The Pomeranian is moderately compatible for family life due to its protective instincts.,suitability
+Pomeranian,valid/Pomeranian/09.jpg,How much exercise does a Pomeranian need daily?,Pomeranians need a specialized diet and consistent joint care.,care
+Pomeranian,valid/Pomeranian/10.jpg,What makes a Pomeranian suitable or unsuitable for first-time owners?,This breed stands out due to its keen senses and companionship.,general
+Poodle,valid/Poodle/01.jpg,What are the historical origins of the Poodle breed?,The Poodle traces its origins to Japan where it was used for guarding.,history
+Poodle,valid/Poodle/02.jpg,How does a Poodle perform in dog sports or work roles?,"With its sprint speed, the Poodle is suited for companion work.",performance
+Poodle,valid/Poodle/03.jpg,What are the defining physical features of a Poodle?,This breed stands out due to its keen senses and tracking.,general
+Poodle,valid/Poodle/04.jpg,How does the Poodle's coat affect its care needs?,A defining characteristic of the Poodle is its double-layered fur and white-tipped tail.,appearance
+Poodle,valid/Poodle/05.jpg,What are the historical origins of the Poodle breed?,Poodles have a legacy of royal service dating back to the medieval period.,history
+Poodle,valid/Poodle/06.jpg,What are the historical origins of the Poodle breed?,The Poodle traces its origins to Japan where it was used for guarding.,history
+Poodle,valid/Poodle/07.jpg,What makes a Poodle suitable for families?,This breed is an ideal family pet and thrives in multi-pet homes.,suitability
+Poodle,valid/Poodle/08.jpg,What unique challenges come with training a Poodle?,Poodles are known for their intelligence and unwavering loyalty.,general
+Poodle,valid/Poodle/09.jpg,What are the most recognizable personality traits of a Poodle?,"With a calm and patient disposition, the Poodle fits well with experienced handlers.",temperament
+Poodle,valid/Poodle/10.jpg,What makes a Poodle suitable or unsuitable for first-time owners?,"A versatile breed, the Poodle combines courage with playful nature.",general
+Pug,valid/Pug/01.jpg,How does a Pug perform in dog sports or work roles?,"With its stamina, the Pug is suited for hunting tasks.",performance
+Pug,valid/Pug/02.jpg,What are the historical origins of the Pug breed?,"Bred initially for tracking prey, the Pug became valued for acute scent detection.",history
+Pug,valid/Pug/03.jpg,What are the most recognizable personality traits of a Pug?,"The Pug is known for its independent nature, making it better suited to experienced owners.",temperament
+Pug,valid/Pug/04.jpg,What are the defining physical features of a Pug?,This breed stands out due to its keen senses and guarding.,general
+Pug,valid/Pug/05.jpg,What makes a Pug suitable for families?,The Pug is highly suitable for family life due to its protective instincts.,suitability
+Pug,valid/Pug/06.jpg,What unique challenges come with training a Pug?,This breed stands out due to its gentle disposition and tracking.,general
+Pug,valid/Pug/07.jpg,How does the Pug interact with unfamiliar people and animals?,"A versatile breed, the Pug combines adaptability with strong instincts.",general
+Pug,valid/Pug/08.jpg,What grooming requirements are specific to a Pug?,"A versatile breed, the Pug combines courage with strong instincts.",general
+Pug,valid/Pug/09.jpg,What are the defining physical features of a Pug?,"A versatile breed, the Pug combines adaptability with keen intelligence.",general
+Pug,valid/Pug/10.jpg,What grooming requirements are specific to a Pug?,"A versatile breed, the Pug combines gentleness with strong instincts.",general
+Rhodesian,valid/Rhodesian/01.jpg,How much exercise does a Rhodesian need daily?,Rhodesians need a specialized diet and consistent regular check-ups.,care
+Rhodesian,valid/Rhodesian/02.jpg,What are the defining physical features of a Rhodesian?,The Rhodesian is unique for its blend of agile and curious traits.,general
+Rhodesian,valid/Rhodesian/03.jpg,How does a Rhodesian perform in dog sports or work roles?,The Rhodesian excels in hunting expertise and is known for intelligence.,performance
+Rhodesian,valid/Rhodesian/04.jpg,How much exercise does a Rhodesian need daily?,Maintaining a Rhodesian involves frequent exercise sessions and frequent coat care.,care
+Rhodesian,valid/Rhodesian/05.jpg,What are the most recognizable personality traits of a Rhodesian?,"The Rhodesian is known for its gentle nature, making it better suited to experienced owners.",temperament
+Rhodesian,valid/Rhodesian/06.jpg,What are the historical origins of the Rhodesian breed?,Rhodesians have a legacy of family companionship dating back to the 19th century.,history
+Rhodesian,valid/Rhodesian/07.jpg,How much exercise does a Rhodesian need daily?,Maintaining a Rhodesian involves frequent exercise sessions and occasional grooming.,care
+Rhodesian,valid/Rhodesian/08.jpg,How does a Rhodesian perform in dog sports or work roles?,"With its sprint speed, the Rhodesian is suited for companion work.",performance
+Rhodesian,valid/Rhodesian/09.jpg,What makes a Rhodesian suitable or unsuitable for first-time owners?,This breed stands out due to its gentle disposition and companionship.,general
+Rhodesian,valid/Rhodesian/10.jpg,What are the most recognizable personality traits of a Rhodesian?,"The Rhodesian is known for its gentle nature, making it better suited to experienced owners.",temperament
+Rottweiler,valid/Rottweiler/01.jpg,What makes a Rottweiler suitable for families?,The Rottweiler is moderately compatible for family life due to its playful demeanor.,suitability
+Rottweiler,valid/Rottweiler/02.jpg,What are the defining physical features of a Rottweiler?,"A versatile breed, the Rottweiler combines adaptability with playful nature.",general
+Rottweiler,valid/Rottweiler/03.jpg,What makes a Rottweiler suitable for families?,Rottweilers are sensitive to strangers with children and in rural homes.,suitability
+Rottweiler,valid/Rottweiler/04.jpg,What are the historical origins of the Rottweiler breed?,The Rottweiler traces its origins to United States where it was used for herding livestock.,history
+Rottweiler,valid/Rottweiler/05.jpg,How much exercise does a Rottweiler need daily?,Rottweilers need a a protein-rich diet and consistent joint care.,care
+Rottweiler,valid/Rottweiler/06.jpg,How does the Rottweiler's coat affect its care needs?,A defining characteristic of the Rottweiler is its medium fur and a unique mask pattern.,appearance
+Rottweiler,valid/Rottweiler/07.jpg,What grooming requirements are specific to a Rottweiler?,This breed stands out due to its gentle disposition and companionship.,general
+Rottweiler,valid/Rottweiler/08.jpg,How does the Rottweiler's temperament make it unique?,"This breed exhibits a intelligent personality, thriving in urban apartments.",temperament
+Rottweiler,valid/Rottweiler/09.jpg,What makes a Rottweiler suitable or unsuitable for first-time owners?,"A versatile breed, the Rottweiler combines gentleness with playful nature.",general
+Rottweiler,valid/Rottweiler/10.jpg,How does the Rottweiler's temperament make it unique?,"Rottweilers are generally reserved, which makes them adapt well to social settings.",temperament
+Saint Bernard,valid/Saint Bernard/01.jpg,How does a Saint Bernard perform in dog sports or work roles?,This breed is valued for its speed and police work.,performance
+Saint Bernard,valid/Saint Bernard/02.jpg,What makes a Saint Bernard suitable or unsuitable for first-time owners?,This breed stands out due to its keen senses and guarding.,general
+Saint Bernard,valid/Saint Bernard/03.jpg,How does the Saint Bernard interact with unfamiliar people and animals?,Saint Bernards are known for their endurance and intuitive nature.,general
+Saint Bernard,valid/Saint Bernard/04.jpg,What unique challenges come with training a Saint Bernard?,The Saint Bernard is unique for its blend of athletic and loyal traits.,general
+Saint Bernard,valid/Saint Bernard/05.jpg,How does the Saint Bernard's temperament make it unique?,"This breed exhibits a affectionate personality, thriving in wide-open spaces.",temperament
+Saint Bernard,valid/Saint Bernard/06.jpg,How does the Saint Bernard's temperament make it unique?,"With a balanced disposition, the Saint Bernard fits well with families with children.",temperament
+Saint Bernard,valid/Saint Bernard/07.jpg,What unique challenges come with training a Saint Bernard?,"A versatile breed, the Saint Bernard combines courage with strong instincts.",general
+Saint Bernard,valid/Saint Bernard/08.jpg,How does a Saint Bernard perform in dog sports or work roles?,This breed is valued for its focus and search and rescue.,performance
+Saint Bernard,valid/Saint Bernard/09.jpg,What grooming requirements are specific to a Saint Bernard?,Saint Bernards are known for their loyalty and intuitive nature.,general
+Saint Bernard,valid/Saint Bernard/10.jpg,What are the historical origins of the Saint Bernard breed?,"Bred initially for protecting estates, the Saint Bernard became valued for agility.",history
+Schnauzer,valid/Schnauzer/01.jpg,What are the defining physical features of a Schnauzer?,"A versatile breed, the Schnauzer combines gentleness with keen intelligence.",general
+Schnauzer,valid/Schnauzer/02.jpg,What are the defining physical features of a Schnauzer?,Schnauzers are known for their intelligence and intuitive nature.,general
+Schnauzer,valid/Schnauzer/03.jpg,How does the Schnauzer's coat affect its care needs?,"Schnauzers are recognized by their giant, black and tan, and their muscular frame.",appearance
+Schnauzer,valid/Schnauzer/04.jpg,What grooming requirements are specific to a Schnauzer?,The Schnauzer is unique for its blend of gentle yet alert traits.,general
+Schnauzer,valid/Schnauzer/05.jpg,How does the Schnauzer interact with unfamiliar people and animals?,"A versatile breed, the Schnauzer combines courage with playful nature.",general
+Schnauzer,valid/Schnauzer/06.jpg,What are the defining physical features of a Schnauzer?,This breed stands out due to its athletic prowess and companionship.,general
+Schnauzer,valid/Schnauzer/07.jpg,What unique challenges come with training a Schnauzer?,Schnauzers are known for their loyalty and intuitive nature.,general
+Schnauzer,valid/Schnauzer/08.jpg,How much exercise does a Schnauzer need daily?,"To keep a Schnauzer in top shape, regular tailored nutrition is recommended.",care
+Schnauzer,valid/Schnauzer/09.jpg,What are the historical origins of the Schnauzer breed?,"Historically, the Schnauzer was known for livestock guardian in central Europe.",history
+Schnauzer,valid/Schnauzer/10.jpg,What are the most recognizable personality traits of a Schnauzer?,"The Schnauzer is known for its playful nature, making it better suited to experienced owners.",temperament
+Scotch Terrier,valid/Scotch Terrier/01.jpg,What makes a Scotch Terrier suitable for families?,Scotch Terriers are best with older kids with children and in spacious homes.,suitability
+Scotch Terrier,valid/Scotch Terrier/02.jpg,How does a Scotch Terrier perform in dog sports or work roles?,"Historically, Scotch Terriers have performed well in obedience sports.",performance
+Scotch Terrier,valid/Scotch Terrier/03.jpg,How does a Scotch Terrier perform in dog sports or work roles?,The Scotch Terrier excels in hunting expertise and is known for intelligence.,performance
+Scotch Terrier,valid/Scotch Terrier/04.jpg,What are the defining physical features of a Scotch Terrier?,This breed stands out due to its keen senses and guarding.,general
+Scotch Terrier,valid/Scotch Terrier/05.jpg,How does the Scotch Terrier's temperament make it unique?,"This breed exhibits a intelligent personality, thriving in wide-open spaces.",temperament
+Scotch Terrier,valid/Scotch Terrier/06.jpg,What are the historical origins of the Scotch Terrier breed?,"Bred initially for protecting estates, the Scotch Terrier became valued for strength and stamina.",history
+Scotch Terrier,valid/Scotch Terrier/07.jpg,What are the most recognizable personality traits of a Scotch Terrier?,"Scotch Terriers are generally curious, which makes them prefer quiet environments.",temperament
+Scotch Terrier,valid/Scotch Terrier/08.jpg,What are the historical origins of the Scotch Terrier breed?,Scotch Terriers have a legacy of royal service dating back to the 19th century.,history
+Scotch Terrier,valid/Scotch Terrier/09.jpg,How does the Scotch Terrier's coat affect its care needs?,"This breed stands out due to its 22 inches, 80 lbs, and sharp muzzle.",appearance
+Scotch Terrier,valid/Scotch Terrier/10.jpg,What unique challenges come with training a Scotch Terrier?,Scotch Terriers are known for their loyalty and playful energy.,general
+Shar_Pei,valid/Shar_Pei/01.jpg,What are the most recognizable personality traits of a Shar_Pei?,"Shar_Peis are generally curious, which makes them prefer quiet environments.",temperament
+Shar_Pei,valid/Shar_Pei/02.jpg,What grooming requirements are specific to a Shar_Pei?,Shar_Peis are known for their loyalty and intuitive nature.,general
+Shar_Pei,valid/Shar_Pei/03.jpg,What makes a Shar_Pei suitable for families?,The Shar_Pei is best for experienced owners for family life due to its gentle nature.,suitability
+Shar_Pei,valid/Shar_Pei/04.jpg,What are the historical origins of the Shar_Pei breed?,Shar_Peis have a legacy of village protection dating back to ancient times.,history
+Shar_Pei,valid/Shar_Pei/05.jpg,What unique challenges come with training a Shar_Pei?,Shar_Peis are known for their loyalty and intuitive nature.,general
+Shar_Pei,valid/Shar_Pei/06.jpg,How does the Shar_Pei's coat affect its care needs?,"This breed stands out due to its 28 inches, 80 lbs, and feathered coat.",appearance
+Shar_Pei,valid/Shar_Pei/07.jpg,How does a Shar_Pei perform in dog sports or work roles?,"Historically, Shar_Peis have performed well in obedience sports.",performance
+Shar_Pei,valid/Shar_Pei/08.jpg,What grooming requirements are specific to a Shar_Pei?,"A versatile breed, the Shar_Pei combines courage with keen intelligence.",general
+Shar_Pei,valid/Shar_Pei/09.jpg,What makes a Shar_Pei suitable for families?,This breed is a loyal but independent companion and thrives in quiet environments.,suitability
+Shar_Pei,valid/Shar_Pei/10.jpg,How does the Shar_Pei's temperament make it unique?,"The Shar_Pei is known for its playful nature, making it better suited to experienced owners.",temperament
+Shiba Inu,valid/Shiba Inu/01.jpg,What are the historical origins of the Shiba Inu breed?,"Historically, the Shiba Inu was known for livestock guardian in the Far East.",history
+Shiba Inu,valid/Shiba Inu/02.jpg,How does a Shiba Inu perform in dog sports or work roles?,"With its sprint speed, the Shiba Inu is suited for companion work.",performance
+Shiba Inu,valid/Shiba Inu/03.jpg,What makes a Shiba Inu suitable for families?,Shiba Inus are best with older kids with children and in city apartments.,suitability
+Shiba Inu,valid/Shiba Inu/04.jpg,How does a Shiba Inu perform in dog sports or work roles?,"With its sprint speed, the Shiba Inu is suited for companion work.",performance
+Shiba Inu,valid/Shiba Inu/05.jpg,What are the defining physical features of a Shiba Inu?,This breed stands out due to its athletic prowess and companionship.,general
+Shiba Inu,valid/Shiba Inu/06.jpg,How does a Shiba Inu perform in dog sports or work roles?,"Historically, Shiba Inus have performed well in tracking trials.",performance
+Shiba Inu,valid/Shiba Inu/07.jpg,How much exercise does a Shiba Inu need daily?,Maintaining a Shiba Inu involves frequent exercise sessions and occasional grooming.,care
+Shiba Inu,valid/Shiba Inu/08.jpg,How does the Shiba Inu's temperament make it unique?,"This breed exhibits a affectionate personality, thriving in urban apartments.",temperament
+Shiba Inu,valid/Shiba Inu/09.jpg,How does the Shiba Inu's coat affect its care needs?,A defining characteristic of the Shiba Inu is its long fur and a unique mask pattern.,appearance
+Shiba Inu,valid/Shiba Inu/10.jpg,What unique challenges come with training a Shiba Inu?,"A versatile breed, the Shiba Inu combines courage with keen intelligence.",general
+Shih-Tzu,valid/Shih-Tzu/01.jpg,How does a Shih-Tzu perform in dog sports or work roles?,"Historically, Shih-Tzus have performed well in tracking trials.",performance
+Shih-Tzu,valid/Shih-Tzu/02.jpg,How does the Shih-Tzu interact with unfamiliar people and animals?,The Shih-Tzu is unique for its blend of gentle yet alert traits.,general
+Shih-Tzu,valid/Shih-Tzu/03.jpg,How much exercise does a Shih-Tzu need daily?,The Shih-Tzu requires moderate activity and minimal grooming to stay healthy.,care
+Shih-Tzu,valid/Shih-Tzu/04.jpg,How does the Shih-Tzu interact with unfamiliar people and animals?,Shih-Tzus are known for their intelligence and intuitive nature.,general
+Shih-Tzu,valid/Shih-Tzu/05.jpg,How does the Shih-Tzu interact with unfamiliar people and animals?,This breed stands out due to its athletic prowess and guarding.,general
+Shih-Tzu,valid/Shih-Tzu/06.jpg,What are the historical origins of the Shih-Tzu breed?,The Shih-Tzu traces its origins to United States where it was used for guarding.,history
+Shih-Tzu,valid/Shih-Tzu/07.jpg,What makes a Shih-Tzu suitable for families?,"With its protective nature, the Shih-Tzu is suitable for large families.",suitability
+Shih-Tzu,valid/Shih-Tzu/08.jpg,How does the Shih-Tzu's temperament make it unique?,"The Shih-Tzu is known for its playful nature, making it an excellent family pet.",temperament
+Shih-Tzu,valid/Shih-Tzu/09.jpg,What makes a Shih-Tzu suitable or unsuitable for first-time owners?,"A versatile breed, the Shih-Tzu combines adaptability with keen intelligence.",general
+Shih-Tzu,valid/Shih-Tzu/10.jpg,How does the Shih-Tzu's coat affect its care needs?,"This breed stands out due to its 15 inches, 25 lbs, and sharp muzzle.",appearance
+Siberian Husky,valid/Siberian Husky/01.jpg,How does the Siberian Husky's coat affect its care needs?,"This breed stands out due to its 15 inches, 80 lbs, and broad chest.",appearance
+Siberian Husky,valid/Siberian Husky/02.jpg,What makes a Siberian Husky suitable for families?,This breed is an ideal family pet and thrives in quiet environments.,suitability
+Siberian Husky,valid/Siberian Husky/03.jpg,How much exercise does a Siberian Husky need daily?,Maintaining a Siberian Husky involves light activity and frequent coat care.,care
+Siberian Husky,valid/Siberian Husky/04.jpg,How does the Siberian Husky's temperament make it unique?,"With a calm and patient disposition, the Siberian Husky fits well with experienced handlers.",temperament
+Siberian Husky,valid/Siberian Husky/05.jpg,How does the Siberian Husky interact with unfamiliar people and animals?,This breed stands out due to its gentle disposition and companionship.,general
+Siberian Husky,valid/Siberian Husky/06.jpg,How does the Siberian Husky interact with unfamiliar people and animals?,This breed stands out due to its athletic prowess and guarding.,general
+Siberian Husky,valid/Siberian Husky/07.jpg,What grooming requirements are specific to a Siberian Husky?,This breed stands out due to its athletic prowess and guarding.,general
+Siberian Husky,valid/Siberian Husky/08.jpg,What are the defining physical features of a Siberian Husky?,This breed stands out due to its gentle disposition and tracking.,general
+Siberian Husky,valid/Siberian Husky/09.jpg,What unique challenges come with training a Siberian Husky?,This breed stands out due to its athletic prowess and tracking.,general
+Siberian Husky,valid/Siberian Husky/10.jpg,How does a Siberian Husky perform in dog sports or work roles?,The Siberian Husky excels in herding skills and is known for intelligence.,performance
+Vizsla,valid/Vizsla/01.jpg,What are the most recognizable personality traits of a Vizsla?,"This breed exhibits a intelligent personality, thriving in urban apartments.",temperament
+Vizsla,valid/Vizsla/02.jpg,How does a Vizsla perform in dog sports or work roles?,The Vizsla excels in hunting expertise and is known for intelligence.,performance
+Vizsla,valid/Vizsla/03.jpg,What are the most recognizable personality traits of a Vizsla?,"With a high-energy disposition, the Vizsla fits well with families with children.",temperament
+Vizsla,valid/Vizsla/04.jpg,How does the Vizsla's temperament make it unique?,"Vizslas are generally friendly, which makes them prefer quiet environments.",temperament
+Vizsla,valid/Vizsla/05.jpg,How does a Vizsla perform in dog sports or work roles?,The Vizsla excels in guarding instincts and is known for intelligence.,performance
+Vizsla,valid/Vizsla/06.jpg,How does the Vizsla interact with unfamiliar people and animals?,"A versatile breed, the Vizsla combines adaptability with strong instincts.",general
+Vizsla,valid/Vizsla/07.jpg,How does a Vizsla perform in dog sports or work roles?,This breed is valued for its speed and search and rescue.,performance
+Vizsla,valid/Vizsla/08.jpg,How much exercise does a Vizsla need daily?,The Vizsla requires moderate activity and minimal grooming to stay healthy.,care
+Vizsla,valid/Vizsla/09.jpg,What makes a Vizsla suitable for families?,"With its calm demeanor, the Vizsla is suitable for large families.",suitability
+Vizsla,valid/Vizsla/10.jpg,How much exercise does a Vizsla need daily?,The Vizsla requires intense activity and routine coat maintenance to stay healthy.,care
+Yorkie,valid/Yorkie/01.jpg,How does the Yorkie's temperament make it unique?,"The Yorkie is known for its playful nature, making it better suited to experienced owners.",temperament
+Yorkie,valid/Yorkie/02.jpg,What are the historical origins of the Yorkie breed?,"Bred initially for herding flocks, the Yorkie became valued for agility.",history
+Yorkie,valid/Yorkie/03.jpg,How does a Yorkie perform in dog sports or work roles?,"With its jumping ability, the Yorkie is suited for hunting tasks.",performance
+Yorkie,valid/Yorkie/04.jpg,What are the historical origins of the Yorkie breed?,"Bred initially for herding flocks, the Yorkie became valued for strength and stamina.",history
+Yorkie,valid/Yorkie/05.jpg,How does the Yorkie interact with unfamiliar people and animals?,Yorkies are known for their intelligence and intuitive nature.,general
+Yorkie,valid/Yorkie/06.jpg,What are the most recognizable personality traits of a Yorkie?,"The Yorkie is known for its protective nature, making it better suited to experienced owners.",temperament
+Yorkie,valid/Yorkie/07.jpg,What unique challenges come with training a Yorkie?,This breed stands out due to its keen senses and companionship.,general
+Yorkie,valid/Yorkie/08.jpg,How much exercise does a Yorkie need daily?,The Yorkie requires light activity and minimal grooming to stay healthy.,care
+Yorkie,valid/Yorkie/09.jpg,What makes a Yorkie suitable for families?,Yorkies are good with children with children and in spacious homes.,suitability
+Yorkie,valid/Yorkie/10.jpg,What are the historical origins of the Yorkie breed?,Yorkies have a legacy of family companionship dating back to ancient times.,history
