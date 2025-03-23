@@ -530,7 +530,7 @@ def prerequisite():
         '<SOS>': 2,
         '<EOS>': 3
     }
-    qa_df = pd.read_csv(r'Datasets\external\vqa_dataset_split.csv')
+    qa_df = pd.read_csv(r'Datasets\LSTM\Final_Original_Names_Dog_Breed_QA_Dataset.csv')
 
     # Add other words from dataset
     word_idx = 4
